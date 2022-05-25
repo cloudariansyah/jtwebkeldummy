@@ -142,9 +142,9 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kecamatan Makasar</h4>
-					<h1 class="font-weight-light">Kelurahan Pinang Ranti</h1>
-					<p>terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+                    <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
+					<h1 class="font-weight-light">Kelurahan Kramat Jati</h1>
+					<p>terletak di Jl. Kerja Bhakti RT 02 RW 10 Kelurahan Kramat Jati Kecamatan Kramat Jati – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -178,7 +178,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Kramat Jati <span class="text-muted">Kecamatan Makasar</span></h2>
+            <h2 class="featurette-heading">Kelurahan Kramat Jati <span class="text-muted">Kecamatan Kramat Jati</span></h2>
             <p class="lead">terletak di Jl. Kerja Bhakti RT 02 RW 10 Kelurahan Kramat Jati Kecamatan Kramat Jati – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
