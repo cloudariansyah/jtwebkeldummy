@@ -178,8 +178,8 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Pinang Ranti <span class="text-muted">Kecamatan Makasar</span></h2>
-            <p class="lead">terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+            <h2 class="featurette-heading">Kelurahan Kramat Jati <span class="text-muted">Kecamatan Makasar</span></h2>
+            <p class="lead">terletak di Jl. Kerja Bhakti RT 02 RW 10 Kelurahan Kramat Jati Kecamatan Kramat Jati – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
