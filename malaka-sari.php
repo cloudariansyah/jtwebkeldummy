@@ -92,7 +92,7 @@ s0.parentNode.insertBefore(s1,s0);
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="foto/pinang-ranti-01 (5).JPG" alt="First slide">
+            <img class="first-slide" src="foto/Kelurahan MAlaka Sariii.JPG" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Terbaik 1 Se-Jakarta Timur</h1>
@@ -102,7 +102,7 @@ s0.parentNode.insertBefore(s1,s0);
             </div>
           </div>
           <div class="carousel-item">
-            <img class="second-slide" src="foto/pinang-ranti-01 (3).JPG" alt="Second slide">
+            <img class="second-slide" src="foto/Kelurahan MAlaka Sariii.JPG" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
@@ -112,7 +112,7 @@ s0.parentNode.insertBefore(s1,s0);
             </div>
           </div>
           <div class="carousel-item">
-            <img class="third-slide" src="foto/pinang-ranti-01 (1).JPG" alt="Third slide">
+            <img class="third-slide" src="foto/Kelurahan MAlaka Sariii.JPG" alt="Third slide">
             <div class="container">
               <div class="carousel-caption text-right">
                 <h1>Juara 1 Nasional Kategori Pelayanan</h1>
