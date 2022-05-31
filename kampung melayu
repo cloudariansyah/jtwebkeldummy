@@ -276,7 +276,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: <a href="https://instagram.com/kelpinangranti">@kelpinangranti</a> </li>
+							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
