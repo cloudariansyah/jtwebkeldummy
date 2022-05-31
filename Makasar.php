@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
 					<h1 class="font-weight-light">Kecamatan Makasar</h1>
-					<p>terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+					<p>terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -179,7 +179,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kecamatan Makasar <span class="text-muted">Kecamatan Makasar</span></h2>
-            <p class="lead">terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+            <p class="lead">terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
@@ -276,7 +276,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: <a href="https://instagram.com/kelpinangranti">@kelpinangranti</a> </li>
+							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
