@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Kelurahan Kramat jati</title>
+    <title>Kecamatan Kramat jati</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/carousel/">
 
@@ -58,7 +58,7 @@ s0.parentNode.insertBefore(s1,s0);
 
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Kelurahan Kramat Jati</a>
+        <a class="navbar-brand" href="#">Kecamatan Kramat Jati</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -142,7 +142,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kelurahan Kramat Jati</h4>
+                    <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Kramat Jati</h1>
 					<p>terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
@@ -178,7 +178,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Kramat Jati <span class="text-muted">Kecamatan Kramat Jati</span></h2>
+            <h2 class="featurette-heading">Kecamatan Kramat Jati <span class="text-muted">Kecamatan Kramat Jati</span></h2>
             <p class="lead">terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
