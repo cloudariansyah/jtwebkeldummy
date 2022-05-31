@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Cawang</h1>
-					<p>terletak di.</p>
+					<p>terletak di Jl. Ja'ani Nasir No.7 RT.001/10</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
