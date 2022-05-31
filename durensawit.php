@@ -178,7 +178,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kecamatan Duren Sawit <span class="text-muted">Kecamatan Makasar</span></h2>
+            <h2 class="featurette-heading">Kecamatan Duren Sawit <span class="text-muted">Kecamatan Duren Sawit</span></h2>
             <p class="lead">terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
