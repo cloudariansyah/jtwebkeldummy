@@ -24,9 +24,9 @@
         var options = {
              call_to_action: "Chat Center Kelurahan", // Call to action
 		position: "left", // Position may be 'right' or 'left'
-                whatsapp: "+6285697187214", // WhatsApp number
-          instagram: "@kelpinangranti",
-		//email: "kelurahan@gmail.com", // Email
+                whatsapp: "", // WhatsApp number
+          instagram: "@kelurahanjati",
+		//email: "", // Email
 button_color: "#cc9933", // Color of button
  
         };
@@ -92,7 +92,7 @@ s0.parentNode.insertBefore(s1,s0);
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="foto/Gambar Whatsapp 2021-11-26 pada 15.45.04.jpeg" alt="First slide">
+            <img class="first-slide" src="foto/Gambar Whatsapp 2021-12-02 pada 17.27.11.jpeg" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Terbaik 1 Se-Jakarta Timur</h1>
@@ -102,7 +102,7 @@ s0.parentNode.insertBefore(s1,s0);
             </div>
           </div>
           <div class="carousel-item">
-            <img class="second-slide" src="foto/Gambar Whatsapp 2021-11-26 pada 15.45.04.jpeg" alt="Second slide">
+            <img class="second-slide" src="foto/Gambar Whatsapp 2021-12-02 pada 17.27.11.jpeg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
@@ -112,7 +112,7 @@ s0.parentNode.insertBefore(s1,s0);
             </div>
           </div>
           <div class="carousel-item">
-            <img class="third-slide" src="foto/Gambar Whatsapp 2021-11-26 pada 15.45.04.jpeg" alt="Third slide">
+            <img class="third-slide" src="foto/Gambar Whatsapp 2021-12-02 pada 17.27.11.jpeg" alt="Third slide">
             <div class="container">
               <div class="carousel-caption text-right">
                 <h1>Juara 1 Nasional Kategori Pelayanan</h1>
@@ -142,9 +142,9 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
+                    <h4 class="font-weight-light">Kelurahan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Kramat Jati</h1>
-					<p>terletak di Jl. Kerja Bhakti RT 02 RW 10 Kelurahan Kramat Jati Kecamatan Kramat Jati – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+					<p>terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -179,7 +179,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Kramat Jati <span class="text-muted">Kecamatan Kramat Jati</span></h2>
-            <p class="lead">terletak di Jl. Kerja Bhakti RT 02 RW 10 Kelurahan Kramat Jati Kecamatan Kramat Jati – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+            <p class="lead">terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
@@ -276,7 +276,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: <a href="https://instagram.com/kelpinangranti">@kelpinangranti</a> </li>
+							<li>Instagram: </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
