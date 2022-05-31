@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Kelurahan Makasar</title>
+    <title>Kecamatan Makasar</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/carousel/">
 
@@ -24,9 +24,9 @@
         var options = {
              call_to_action: "Chat Center Kelurahan", // Call to action
 		position: "left", // Position may be 'right' or 'left'
-                whatsapp: "+6285697187214", // WhatsApp number
+                whatsapp: "", // WhatsApp number
           instagram: "@kelmakasar",
-		//email: "kelurahan@gmail.com", // Email
+		//email: "kecamatanmakasar@gmail.com", // Email
 button_color: "#cc9933", // Color of button
  
         };
@@ -58,7 +58,7 @@ s0.parentNode.insertBefore(s1,s0);
 
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Kelurahan Makasar</a>
+        <a class="navbar-brand" href="#">Kecamatan Makasar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -143,7 +143,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
-					<h1 class="font-weight-light">Kelurahan Pinang Ranti</h1>
+					<h1 class="font-weight-light">Kecamatan Makasar</h1>
 					<p>terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
