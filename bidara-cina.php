@@ -143,7 +143,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Bidara Cina</h1>
-					<p>terletak di Jl. </p>
+					<p>terletak di Jl.Otto Iskandar Dinata, No. 32C, RT.10/RW.2, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
