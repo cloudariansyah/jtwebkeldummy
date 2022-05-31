@@ -142,7 +142,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kelurahan Rambutan</h4>
+                    <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Kelurahan Rambutan</h1>
 					<p>terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
@@ -178,7 +178,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Rambutan <span class="text-muted">Kelurahan Rambutan</span></h2>
+            <h2 class="featurette-heading">Kelurahan Rambutan <span class="text-muted">Kecamatan Ciracas</span></h2>
             <p class="lead">terletak di Jl. </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
