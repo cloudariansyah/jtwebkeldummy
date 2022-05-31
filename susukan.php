@@ -250,19 +250,6 @@ s0.parentNode.insertBefore(s1,s0);
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Rumah Sakit Haji Jakarta</li>
-<li>RS TK.II Moh. Ridwan Meuraksa</li>
-<li>Puskesmas Pinang Ranti</li>
-<li>Klinik Taradita 48</li>
-<li>Apotik Yeta Farma II</li>
-<li>Mall Tamini Square</li>
-<li>Restorant Tradisional KARIMATA</li>
-<li>Kuliner Makanan JCO</li>
-<li>Holland Bakery</li>
-<li>D'cika Cakes & Bakery</li>
-<li>Pom Bensin Pertamina</li>
-<li>Taman Anggrek Indonesia Permai</li>
-<li>Pizza Hut Restoran</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
