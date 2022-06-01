@@ -24,7 +24,7 @@
         var options = {
              call_to_action: "Chat Center Kelurahan", // Call to action
 		position: "left", // Position may be 'right' or 'left'
-                whatsapp: "-", // WhatsApp number
+                whatsapp: "021-8710994", // WhatsApp number
           instagram: "-",
 		//email: "kel.cibubur.jaktim@gmail.com", // Email
 button_color: "#cc9933", // Color of button
