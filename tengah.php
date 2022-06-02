@@ -25,7 +25,7 @@
              call_to_action: "Chat Center Kelurahan", // Call to action
 		position: "left", // Position may be 'right' or 'left'
                 whatsapp: "", // WhatsApp number
-          instagram: "@",
+          instagram: "https://www.instagram.com", // Instagram
 		//email: "tengah.kampoenk@gmail.com", // Email
 button_color: "#cc9933", // Color of button
  
@@ -92,7 +92,7 @@ s0.parentNode.insertBefore(s1,s0);
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="foto/KANTOR KELURAHAN TENGAH.JPG" alt="First slide">
+            <img class="first-slide" src="foto/KANTOR KELURAHAN TENGAH.JPEG" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Terbaik 1 Se-Jakarta Timur</h1>
@@ -102,7 +102,7 @@ s0.parentNode.insertBefore(s1,s0);
             </div>
           </div>
           <div class="carousel-item">
-            <img class="second-slide" src="foto/KANTOR KELURAHAN TENGAH.JPG" alt="Second slide">
+            <img class="second-slide" src="foto/KANTOR KELURAHAN TENGAH.JPEG" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
