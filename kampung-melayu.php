@@ -142,9 +142,9 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kelurahan Kampung Melayu</h4>
+                    <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Kampung Melayu</h1>
-					<p>terletak di  Kampung Melayu, Jl. Kb. Pala No.RT.1, RT.3/RW.5, Kp. Melayu, Kecamatan Jatinegara – 13320 -  Jakarta Timur luas wilayah 47,83 Ha dengan jumlah KK XX jumlah Penduduk XX.</p>
+					<p>terletak di Jl.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -178,8 +178,8 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Kampung Melayu <span class="text-muted">Kelurahan Kampung Melayu</span></h2>
-            <p class="lead">terletak di  Kampung Melayu, Jl. Kb. Pala No.RT.1, RT.3/RW.5, Kp. Melayu, Kecamatan Jatinegara – 13320 -  Jakarta Timur luas wilayah 47,83 Ha dengan jumlah KK XX jumlah Penduduk XX.</p>
+            <h2 class="featurette-heading">Kelurahan Kampung Melayu <span class="text-muted">Kecamatan Jatinegara</span></h2>
+            <p class="lead">terletak di Jl.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
