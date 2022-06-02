@@ -142,9 +142,9 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kecamatan Makasar</h4>
-					<h1 class="font-weight-light">Kelurahan Pinang Ranti</h1>
-					<p>terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+                    <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
+					<h1 class="font-weight-light">Kelurahan Rawamangun</h1>
+					<p>terletak di Jl. Rawamangun Muka Barat No.3, RT.9/RW.12, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur .</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -158,13 +158,13 @@ s0.parentNode.insertBefore(s1,s0);
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Camat Makasar</h2>
-            <p>NAMA</p>
+            <h2>Camat Pulo Gadung</h2>
+            <p>Teguh Hendrawan, S.Sos, M.Si</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Lurah Pinang Ranti</h2>
+            <h2>Lurah Rawamangun</h2>
             <p>Nama</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
@@ -178,8 +178,8 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Rawamangun <span class="text-muted">Kelurahan Rawamangun</span></h2>
-            <p class="lead">terletak di Jl. </p>
+            <h2 class="featurette-heading">Kecamatan Pulo Gadung <span class="text-muted">Kelurahan Rawamangun</span></h2>
+            <p class="lead">terletak di Jl. Rawamangun Muka Barat No.3, RT.9/RW.12, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
