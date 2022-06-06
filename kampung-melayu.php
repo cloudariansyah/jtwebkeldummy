@@ -102,7 +102,7 @@ s0.parentNode.insertBefore(s1,s0);
             </div>
           </div>
           <div class="carousel-item">
-            <img class="second-slide" src="foto/Foto Kelurahan Kampung Melayu (Tampak Depan).JPG" alt="Second slide">
+            <img class="second-slide" src="foto/Foto Kelurahan Kampung Melayu (Tampak Samping).JPG" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Kampung Melayu</h1>
-					<p>terletak di Jl.</p>
+					<p>terletak di Jl. Kebon Pala I No.32 RT 003 RW 05 Kelurahan kampung Melayu Kecamatan Jatinegara - 13310 - Jakarta Timur luas wilayah 47,83 Ha dengan jumlah KK. XX jumlah penduduk XX jumlah rw 9 jumlah rt 106.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -158,13 +158,13 @@ s0.parentNode.insertBefore(s1,s0);
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Camat Makasar</h2>
+            <h2>Camat Jatinegara</h2>
             <p>NAMA</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Lurah Pinang Ranti</h2>
+            <h2>Lurah Kampung Melayu</h2>
             <p>Nama</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
@@ -179,7 +179,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Kampung Melayu <span class="text-muted">Kecamatan Jatinegara</span></h2>
-            <p class="lead">terletak di Jl.</p>
+            <p class="lead">terletak di l. Kebon Pala I No.32 RT 003 RW 05 Kelurahan kampung Melayu Kecamatan Jatinegara - 13310 - Jakarta Timur luas wilayah 47,83 Ha dengan jumlah KK. XX jumlah penduduk XX jumlah rw 9 jumlah rt 106</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
@@ -263,7 +263,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
+							<li>Instagram: <a href="https://instagram.com/">@kampung_melayu_21</a> </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
