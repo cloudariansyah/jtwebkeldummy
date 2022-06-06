@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Kebon Manggis</h1>
-					<p>terletak di Jl. .</p>
+					<p>terletak di Jl. Kebon Manggis I, Kelurahan Kebon Manggis, Kecamatan matraman.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -158,13 +158,13 @@ s0.parentNode.insertBefore(s1,s0);
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Camat Makasar</h2>
+            <h2>Camat Matraman</h2>
             <p>NAMA</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Lurah Pinang Ranti</h2>
+            <h2>Lurah Kebon Manggis</h2>
             <p>Nama</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
@@ -179,7 +179,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Kebon Manggis <span class="text-muted">Kecamatan Matraman </span></h2>
-            <p class="lead">terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah KK XX jumlah Penduduk XX RW 5 jumlah RW 54.</p>
+            <p class="lead">terletak di Jl. Kebon Manggis I, Kelurahan Kebon Manggis, Kecamatan matraman.</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
