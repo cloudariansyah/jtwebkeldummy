@@ -187,7 +187,7 @@
                             <p class="card-text">
 							<ul><li>Pelayanan Pencatatan Biodata Penduduk WNI</li>
 <li>Pelayanan Penertiban KK</li>
-<li>Pelayanan Biodata Penduduk WNI yang ebrtempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
+<li>Pelayanan Biodata Penduduk WNI yang bertempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
 <li>Penerbitan KK karena perubahan data</li>
 <li>Pelayanan KK karena hilang atau rusak </li>
 <li>Pelayanan KTP-el karena adanya perubahan data/biodata</li>
