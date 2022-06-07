@@ -242,7 +242,7 @@
 <li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
-                       <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>-->
+                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
