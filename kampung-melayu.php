@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Kampung Melayu</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <!-- Favicons -->
@@ -131,7 +131,7 @@
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Kampung Melayu</h1>
 					<p>terletak di Jl. Kebon Pala I No.32 RT 003 RW 05 Kelurahan kampung Melayu Kecamatan Jatinegara - 13310 - Jakarta Timur luas wilayah 47,83 Ha dengan bujur barat -6.214.418 dan lintang selatan 106.859.681 serta jumlah rw 9 jumlah rt 106.</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+                    <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
         <!-- Three columns of text below the carousel -->
@@ -147,7 +147,7 @@
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Kampung Melayu <span class="text-muted">Kecamatan Jatinegara</span></h2>
             <p class="lead">terletak di l. Kebon Pala I No.32 RT 003 RW 05 Kelurahan kampung Melayu Kecamatan Jatinegara - 13310 - Jakarta Timur luas wilayah 47,83 Ha dengan bujur barat -6.214.418 dan lintang selatan 106.859.681 serta jumlah rw 9 jumlah rt 106</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+                     
           </div>
           <div class="col-md-5">
 		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.687349883677!2d106.85694717205791!3d-6.218329866251487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f380e3517115%3A0xc9551fa6be8f86d4!2sKampung%20Melayu%2C%20Jatinegara%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644466980794!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></iframe></p></div>
@@ -208,10 +208,10 @@
 <li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>
+                       <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>-->
                     </div>
                 </div>
-                <div class="col-md-4 mb-5">
+                <div class="col-md-4 mb-5" style="display:none">
                     <div class="card h-100">
                         <div class="card-body">
                             <h2 class="card-title">Potensi Wilayah</h2>
