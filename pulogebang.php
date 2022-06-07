@@ -52,7 +52,7 @@ s0.parentNode.insertBefore(s1,s0);
   <body>
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Kelurahan Pinang Ranti</a>
+        <a class="navbar-brand" href="#">Kelurahan Pulogebang</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -146,7 +146,7 @@ s0.parentNode.insertBefore(s1,s0);
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2> camat </h2>
+            <h2> camat Cakung </h2>
             <p>NAMA</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
@@ -229,7 +229,10 @@ s0.parentNode.insertBefore(s1,s0);
                     <div class="card h-100">
                         <div class="card-body">
                             <h2 class="card-title">Potensi Wilayah</h2>
-                            <p class="card-text"></p>
+			        <p class="card-text">
+							<ul>
+								<li></li>
+</p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
                     </div>
@@ -242,7 +245,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: <a href="https://instagram.com/kelpinangranti">@kelpinangranti</a> </li>
+							<li>Instagram: <a href="https://instagram.com/kelpinangranti"></a> </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
