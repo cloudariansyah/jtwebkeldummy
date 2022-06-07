@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Bale Kambang</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -146,31 +146,11 @@
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Bale Kambang</h1>
 					<p>terletak di Jl. Gardu/Pucung RT. 009 RW.02. Kelurahan Bale Kambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+                    <a class="btn btn-primary" href="telp:+62218096875">021 8096875</a>
                 </div>
             </div>
         <!-- Three columns of text below the carousel -->
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="rounded-circle" src="foto/foto gedung.jpg" alt="Generic placeholder image" width="140" height="140">
-            <h2>Walikota Jakarta Timur</h2>
-            <p>M. Anwar, S.Si, MAP.</p>
-            
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Camat Kramat Jati</h2>
-            <p>NAMA</p>
-            
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Lurah Bale Kambang</h2>
-            <p>Nama</p>
-            
-          </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
-
+        
 
         <!-- START THE FEATURETTES -->
 
@@ -181,7 +161,7 @@
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Bale Kambang <span class="text-muted">Kecamatan Kramat Jati</span></h2>
             <p class="lead">terletak di Jl. Gardu/Kober RT. 009 RW.02. Kelurahan Balekambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+                   <a class="btn btn-primary" href="telp:+62218096875">021 8096875</a>
           </div>
           <div class="col-md-5">
 		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Kelurahan+Balekambang/@-6.2810694,106.8486768,17.25z/data=!4m5!3m4!1s0x2e69f26920b40a65:0xddb65cf54d179ea5!8m2!3d-6.2816884!4d106.8501658?hl=nl&shorturl=1"></iframe></p></div>
@@ -265,11 +245,10 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>TikTok: </li>
-							<li>Twitter: </li>
+							 
 							<li>Instagram: <a href="https://www.instagram.com/p/CWPJDqbhlr9">@kelbalekambang</a> </li>
-							<li>Facebook: <a href=https://www.facebook.com/kelurahan.balekambang">@kelbalekambang</a></li>
-							<li>Youtube: </li>
+							<li>Facebook: <a href="https://www.facebook.com/kelurahan.balekambang">@kelbalekambang</a></li>
+							 
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
