@@ -145,7 +145,8 @@
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Bale Kambang</h1>
-					<p>terletak di Jl. Gardu/Pucung RT. 009 RW.02. Kelurahan Bale Kambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>
+					<p>terletak di Jl. Gardu/Pucung RT. 009 RW.02. Kelurahan Bale Kambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha</p> <!--dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>-->
+
                     <a class="btn btn-primary" href="telp:+62218096875">021 8096875</a>
                 </div>
             </div>
@@ -160,39 +161,15 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Bale Kambang <span class="text-muted">Kecamatan Kramat Jati</span></h2>
-            <p class="lead">terletak di Jl. Gardu/Kober RT. 009 RW.02. Kelurahan Balekambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>
+            <p class="lead">terletak di Jl. Gardu/Kober RT. 009 RW.02. Kelurahan Balekambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha </p><!--dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>-->
                    <a class="btn btn-primary" href="telp:+62218096875">021 8096875</a>
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Kelurahan+Balekambang/@-6.2810694,106.8486768,17.25z/data=!4m5!3m4!1s0x2e69f26920b40a65:0xddb65cf54d179ea5!8m2!3d-6.2816884!4d106.8501658?hl=nl&shorturl=1"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8680696043302!2d106.8486768!3d-6.2810694!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f26920b40a65%3A0xddb65cf54d179ea5!2sKelurahan%20Balekambang!5e0!3m2!1snl!2sid!4v1654577421229!5m2!1snl!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
-<!--
-        <hr class="featurette-divider">
 
-        <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
--->
 <div class="row gx-4 gx-lg-5">
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
