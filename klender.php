@@ -275,9 +275,11 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							 
+							<li>TikTok: </li>
+							<li>Twitter: </li> 
 							<li>Instagram: <a href="Https://www.instagram.com/kel.klender">@kelurahan.Klender</a> </li>
-							 
+							<li>Facebook: </li>
+							<li>Youtube: </li> 
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
