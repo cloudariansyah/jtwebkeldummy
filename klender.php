@@ -146,10 +146,10 @@
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Klender</h1>
 					<p>terletak di Jl. .</p>
-                    <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
+                    <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
-       <!-- Three columns of text below the carousel -->
+        <!-- Three columns of text below the carousel -->
         <div class="row">
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
