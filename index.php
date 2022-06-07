@@ -146,7 +146,7 @@
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
 					<h1 class="font-weight-light">Kelurahan Pinang Ranti</h1>
 					<p>terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah RW 5 jumlah RW 54.</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+                    <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
        
@@ -160,7 +160,7 @@
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Pinang Ranti <span class="text-muted">Kecamatan Makasar</span></h2>
             <p class="lead">terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah RW 5 jumlah RW 54.</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+                    
           </div>
           <div class="col-md-5">
 		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31726.481519493445!2d106.86785538411829!3d-6.288662051087423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f299b21a9357%3A0x8451f94f09d2490b!2sPinang%20Ranti%2C%20Makasar%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644469039098!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
