@@ -188,8 +188,7 @@
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
- <!--
-
+<!--
         <hr class="featurette-divider">
 
         <div class="row featurette">
