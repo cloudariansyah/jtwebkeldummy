@@ -46,11 +46,11 @@
 
       <!-- <h1 class="logo mr-auto"><a href="index.html"><span>+Jakarta</span></a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo mr-auto"><img src="assets/img/logo/logoJT.png" alt="" class="img-fluid"></a>
+      <a href="index.php" class="logo mr-auto"><img src="assets/img/logo/logoJT.png" alt="" class="img-fluid"></a>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Beranda</a></li>
+          <li class="active"><a href="index.php">Beranda</a></li>
 
           <li class="drop-down active"><a href="">Profil</a>
             <ul>
