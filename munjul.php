@@ -159,7 +159,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Munjul <span class="text-muted">Kecamatan Cipayung</span></h2>
-            <p class="lead">terletak di Jl. Buni No. 1, RT 01 / RW 02, Cibubur, Ciracas, RT.1/RW.2, Munjul, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13850 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah RW 5 jumlah RW 54.</p>
+            <p class="lead">terletak di Jl. Buni No. 1, RT 01 / RW 02, Cibubur, Ciracas, RT.1/RW.2, Munjul, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13850 -  Jakarta Timur luas wilayah 190,30 Ha dengan jumlah RW 8 jumlah RT 75.</p>
                     
           </div>
           <div class="col-md-5">
@@ -206,14 +206,12 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Rumah Sakit Haji Jakarta</li>
-<li>RS TK.II Moh. Ridwan Meuraksa</li>
-<li>Puskesmas Pinang Ranti</li>
-<li>Klinik Taradita 48</li>
-<li>Apotik Yeta Farma II</li>
-<li>Mall Tamini Square</li>
-<li>Restorant Tradisional KARIMATA</li>
-<li>Kuliner Makanan JCO</li>
+							<li>Komplek Polisi Indonesia Maju</li>
+<li>PS Munjul</li>
+<li>Puskesmas Munjul</li>
+<li>Klinik Bersalin Dr. Widi, Sp.OG</li>
+<li>Klinik Koronka Medika</li>
+<li>Bread Time Bakery</li>
 <li>Holland Bakery</li>
 <li>D'cika Cakes & Bakery</li>
 <li>Pom Bensin Pertamina</li>
