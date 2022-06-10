@@ -163,7 +163,7 @@
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Pondok+Bambu,+Duren+Sawit,+East+Jakarta+City,+Jakarta/@-6.2351136,106.8916452,15z/data=!3m1!4b1!4m5!3m4!1s0x2e69f347ffc34c15:0xd9e14de0a1e20d92!8m2!3d-6.2325788!4d106.9033981" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Halim+Perdana+Kusumah,+Makasar,+East+Jakarta+City,+Jakarta/@-6.2656321,106.8760519,14z/data=!3m1!4b1!4m5!3m4!1s0x2e69f2dcb11a7677:0xfdfafc879af457f6!8m2!3d-6.2461142!4d106.8864928" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
