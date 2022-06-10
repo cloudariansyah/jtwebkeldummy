@@ -214,11 +214,6 @@
 <li>Mall Graha Cijantung</li>
 <li>Restorant Tradisional Nasi Uduk Mpok Yoh</li>
 <li>Kuliner Makanan Burger Kadet </li>
-<li>Holland Bakery</li>
-<li>D'cika Cakes & Bakery</li>
-<li>Pom Bensin Pertamina</li>
-<li>Taman RPTRA Pondok Bambu Berserii</li>
-<li>Pizza Hut Restoran</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
