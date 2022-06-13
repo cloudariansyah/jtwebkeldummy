@@ -228,8 +228,10 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>Instagram: <a href="https://instagram.com/">@kelurahanrawamangun</a> </li>
-							
+							<li>Instagram: <a href="https://instagram.com/kelurahanrawamangun">@kelurahanrawamangun</a> </li>
+								<li>Twitter: <a href="https://twitter.com/kel_rawamangun">@kel_rawamangun</a></li>
+								<li>Facebook <a href="https://facebook.com/KelurahanRawamangun">Kelurahan Rawamangun </a></li>
+									<li>YouTube <a href="https://www.youtube.com/channel/UCykcBGfjhRgXOThl1v4N_Yw">Kelurahan Rawamangun </a></li> 
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
