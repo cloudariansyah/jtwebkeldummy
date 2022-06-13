@@ -54,7 +54,7 @@
 
           <li class="drop-down active"><a href="">Profil</a>
             <ul>
-		    <li class="drop-down"><a href="#">Sejarah</a></li>
+		    		<li class="drop-down"><a href="#">Sejarah</a>
                 <ul>
                   <li><a href="#">Benda Cagar Budaya</a></li>
                   <li><a href="#">Bangunan Cagar Budaya</a></li>
