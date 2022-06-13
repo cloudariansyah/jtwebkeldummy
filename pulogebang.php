@@ -1,18 +1,21 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Kelurahan Pulo Gebang</title>
+
+  <title>Kelurahan Jakarta Timur</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -22,9 +25,11 @@
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/custom.css" rel="stylesheet">
+
   <!-- =======================================================
   * Template Name: Company - v2.2.1
   * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
@@ -32,16 +37,21 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+
 <body>
+
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
+
       <!-- <h1 class="logo mr-auto"><a href="index.html"><span>+Jakarta</span></a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
       <a href="index.html" class="logo mr-auto"><img src="assets/img/logo/logoJT.png" alt="" class="img-fluid"></a>
+
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.html">Beranda</a></li>
+
           <li class="drop-down active"><a href="">Profil</a>
             <ul>
 				<li class="drop-down"><a href="#">Sejarah</a>
@@ -58,6 +68,7 @@
               <li><a href="#">Geografi</a></li>
             </ul>
           </li>
+
           <li class="drop-down"><a href="">Produk</a>
             <ul>
               <li><a href="#">Penghargaan</a></li>
@@ -66,6 +77,7 @@
               <li><a href="laporan.html">Laporan</a></li>
             </ul>
           </li>
+
           <li class="drop-down"><a href="">Layanan</a>
             <ul>
               <li><a href="#">PTSP</a></li>
@@ -76,6 +88,7 @@
               <li><a href="#">Pelatihan</a></li>
             </ul>
           </li>
+
           <li class="drop-down"><a href="">Fasilitas</a>
             <ul>
               <li><a href="#">Pendidikan</a></li>
@@ -89,6 +102,7 @@
               <li><a href="#">Taman</a></li>
             </ul>
           </li>
+
           <li class="drop-down"><a href="">Mutakhir</a>
             <ul>
               <li><a href="#">Berita</a></li>
@@ -102,12 +116,14 @@
         </ul>
       </nav>
 	  <!-- .nav-menu -->
+
       <div class="header-social-links">
         <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
         <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
         <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
       </div>
+
     </div>
   </header>
   <!-- End Header -->
@@ -117,8 +133,7 @@
   </div>
 <!-- End Hero -->
   <main id="main">
-
-
+   
       <!-- Marketing messaging and featurettes
       ================================================== -->
       <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -126,17 +141,15 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kantor Kelurahan Pulo Gebang.jpg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan pulogebang.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
-					<h1 class="font-weight-light">Kelurahan Pulo Gebang</h1>
-					<p>terletak di Jl. Rw. Kuning No.3, RT.6/RW.3 Kelurahan Pulo Gebang Kecamatan Cakung - 13950.</p>
+					<h1 class="font-weight-light">Kelurahan Pulo Gebang </h1>
+					<p>terletak di Jl. Raya Pulogebang RT 06 RW 03 Kelurahan Pulo Gebang  Kecamatan Cakung – 24164 -  Jakarta Timur luas wilayah 685.81 Ha dengan jumlah RT 201 jumlah RW 17.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
-        <!-- Three columns of text below the carousel -->
-        
-
+       
 
         <!-- START THE FEATURETTES -->
 
@@ -145,40 +158,16 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Pulo Gebang <span class="text-muted">Kecamatan Cakung</span></h2>
-            <p class="lead">terletak di Jl. Rw. Kuning No.3, RT.6/RW.3 Kelurahan Pulo Gebang Kecamatan Cakung - 13950.</p>
-                     
+            <h2 class="featurette-heading">Kelurahan Pulo Gebang<span class="text-muted">Kecamatan Makasar</span></h2>
+            <p class="lead">terletak di Jl. Raya Pulogebang RT 06 RW 03 Kelurahan Pulo Gebang  Kecamatan Cakung – 24164 -  Jakarta Timur luas wilayah 685.81 Ha dengan jumlah RT 201 jumlah RW 17.</p>
+                    
           </div>
           <div class="col-md-5">
 		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31731.508316630818!2d106.93569536813098!3d-6.205740212478366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698b7bd6aac3af%3A0xe2c873238ab0cb69!2sPulo%20Gebang%2C%20Kec.%20Cakung%2C%20Kota%20Jakarta%20Timur%2C%20Daerah%20Khusus%20Ibukota%20Jakarta!5e0!3m2!1sid!2sid!4v1644286201543!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
-<!--
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
--->
+ 
 <div class="row gx-4 gx-lg-5">
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
@@ -187,7 +176,7 @@
                             <p class="card-text">
 							<ul><li>Pelayanan Pencatatan Biodata Penduduk WNI</li>
 <li>Pelayanan Penertiban KK</li>
-<li>Pelayanan Biodata Penduduk WNI yang bertempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
+<li>Pelayanan Biodata Penduduk WNI yang ebrtempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
 <li>Penerbitan KK karena perubahan data</li>
 <li>Pelayanan KK karena hilang atau rusak </li>
 <li>Pelayanan KTP-el karena adanya perubahan data/biodata</li>
@@ -211,12 +200,13 @@
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>-->
                     </div>
                 </div>
-                <div class="col-md-4 mb-5" style="display:none">
+                <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
+<li></li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
@@ -228,8 +218,10 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
-							
+								<li>Telp: 021 48700917</li>
+								<li>Email: kel.pulogebang@gmail.com </li>
+							<li>Youtube: <a href="https://www.youtube.com/channel/UCQ0p27BeGwbuWPiCTEtwjSw">Media Kelurahan Pulo Gebang </a></li>
+
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
@@ -241,13 +233,15 @@
         <!-- /END THE FEATURETTES -->
 
       </div><!-- /.container -->
+  </main><!-- End #main -->
 
-
-      <!-- ======= Footer ======= -->
+  <!-- ======= Footer ======= -->
   <footer id="footer">
+
     <div class="footer-top">
       <div class="container">
         <div class="row">
+
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Jakarta Timur</h3>
             <p>
@@ -258,6 +252,7 @@
               <strong>Email:</strong> kominfotik@jakarta.go.id<br>
             </p>
           </div>
+
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Link Terkait</h4>
             <ul>
@@ -266,6 +261,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">JDIH</a></li>
             </ul>
           </div>
+
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Nomor Penting</h4>
             <ul>
@@ -275,10 +271,11 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Posko bencana alam : 129</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Perusahaan Listrik Negara (PLN) : 123</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Pemadam Kebakaran : 113 atau 1131</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Nomor darurat telpon seluler dan satelit : 112</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Keracunan :  (021) 4250767 atau (021) 4227875</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Nomor darurat telpon seluler dan satelit : 112</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Keracunan :  (021) 4250767 atau (021) 4227875</a></li>
             </ul>
           </div>
+
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Pencarian</h4>
             <!-- <p></p> -->
@@ -286,10 +283,13 @@
               <input type="text" name="text"><input type="submit" value="Cari">
             </form>
           </div>
+
         </div>
       </div>
     </div>
+
     <div class="container d-md-flex py-4">
+
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
           &copy; Copyright <strong><span>Jakarta Timur </span></strong>Sudin Kominfotik JT
@@ -306,7 +306,9 @@
     </div>
   </footer>
   <!-- End Footer -->
+
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -318,7 +320,10 @@
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
+
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
 </body>
+
 </html>
