@@ -218,10 +218,9 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							 
+							<li>Telp: <a href="https://whatsapp.com/">0218191284</a> </li>
 							<li>Instagram: <a href="https://instagram.com/kelurahan_cipinangmuara">@kelurahan_cipinangmuara</a> </li>
 							<li>Facebook: <a href="https://facebook.com/KelurahanCipinangMuara">@Kelurahan Cipinang Muara</a> </li>
-							 
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
