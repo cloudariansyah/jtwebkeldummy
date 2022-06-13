@@ -145,7 +145,7 @@
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Klender</h1>
-					<p>terletak di Jl. KH. Maisin, RT.8/RW.16, Klender, Kec. Duren Sawit - 13470 - Jakarta Timur luas wilayah XX Ha dengan jumlah RT XX jumlah RW XX.</p>
+					<p>terletak di Jl. KH. Maisin, RT.8/RW.16, Klender, Kec. Duren Sawit - 13470 - Jakarta Timur luas wilayah 304,90 Ha dengan jumlah RT 182 jumlah RW 17.</p>
                     <--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
 	      </div> 
@@ -159,7 +159,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Klender <span class="text-muted">Kecamatan Duren Sawit</span></h2>
-            <p class="lead">terletak di Jl. KH. Maisin, RT.8/RW.16, Klender, Kec. Duren Sawit - 13470 - Jakarta Timur luas wilayah XX Ha dengan jumlah RT XX jumlah RW XX.</p>
+            <p class="lead">terletak di Jl. KH. Maisin, RT.8/RW.16, Klender, Kec. Duren Sawit - 13470 - Jakarta Timur luas wilayah 304,90 Ha dengan jumlah RT 182 jumlah RW 17.</p>
             
           </div>
           <div class="col-md-5">
