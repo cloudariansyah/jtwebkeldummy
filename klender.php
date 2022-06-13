@@ -54,7 +54,7 @@
 
           <li class="drop-down active"><a href="">Profil</a>
             <ul>
-				<li class="drop-down"><a href="#">Sejarah</a>
+		    <li class="drop-down"><a href="#">Sejarah</a></li>
                 <ul>
                   <li><a href="#">Benda Cagar Budaya</a></li>
                   <li><a href="#">Bangunan Cagar Budaya</a></li>
@@ -121,7 +121,7 @@
         <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
         <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
       </div>
 
     </div>
