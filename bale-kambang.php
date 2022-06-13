@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Bale Kambang</title>
+  <title>Kelurahan Jakarta Timur</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -46,11 +46,11 @@
 
       <!-- <h1 class="logo mr-auto"><a href="index.html"><span>+Jakarta</span></a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.php" class="logo mr-auto"><img src="assets/img/logo/logoJT.png" alt="" class="img-fluid"></a>
+      <a href="index.html" class="logo mr-auto"><img src="assets/img/logo/logoJT.png" alt="" class="img-fluid"></a>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">Beranda</a></li>
+          <li class="active"><a href="index.html">Beranda</a></li>
 
           <li class="drop-down active"><a href="">Profil</a>
             <ul>
@@ -141,17 +141,15 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/balekambang.jpg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Bale Kambang</h1>
-					<p>terletak di Jl. Gardu/Pucung RT. 009 RW.02. Kelurahan Bale Kambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha</p> <!--dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>-->
-
-                    <a class="btn btn-primary" href="telp:+62218096875">021 8096875</a>
+					<p>terletak di Jl. Gardu Pucung RT 009 RW 02 Kelurahan Bale kambang Kecamatan Kramat Jati – 13530 -  Jakarta Timur luas wilayah ... Ha dengan jumlah RW XX jumlah RW XX.</p>
+                    <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
-        <!-- Three columns of text below the carousel -->
-        
+       
 
         <!-- START THE FEATURETTES -->
 
@@ -161,15 +159,15 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Bale Kambang <span class="text-muted">Kecamatan Kramat Jati</span></h2>
-            <p class="lead">terletak di Jl. Gardu/Kober RT. 009 RW.02. Kelurahan Balekambang Kecamatan Kamat Jati – 13530 -  Jakarta Timur luas wilayah 165 Ha </p><!--dengan bujur barat XX, bujur lintang XX, serta jumlah KK XX, jumlah RW XX, jumlah RT XX.</p>-->
-                   <a class="btn btn-primary" href="telp:+62218096875">021 8096875</a>
+            <p class="lead">terletak di Jl. Gardu Pucung RT 009 RW 02 Kelurahan Bale kambang Kecamatan Kramat Jati – 13530 -  Jakarta Timur luas wilayah ... Ha dengan jumlah RW XX jumlah RW XX.</p>
+                    
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"> <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8680696043302!2d106.8486768!3d-6.2810694!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f26920b40a65%3A0xddb65cf54d179ea5!2sKelurahan%20Balekambang!5e0!3m2!1snl!2sid!4v1654577421229!5m2!1snl!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31726.94332562863!2d106.83569433411348!3d-6.28108960081161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f2689df100cd%3A0xfab3f03bf96d080b!2sBale%20Kambang%2C%20Kramat%20Jati%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644467312415!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
-
+ 
 <div class="row gx-4 gx-lg-5">
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
@@ -199,7 +197,7 @@
 <li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>
+                       <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>-->
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -208,9 +206,9 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-								<li>Taman Rekreasi Kebun Buah Condet</li>
-								<li>GOR Kramat Jati</li>
-								<li>Gedung Balai Kebudayaan Karawitan</li>
+<li>Taman Rekreasi Kebun Cagar Buah Condet</li>
+<li>GOR Kramat Jati</li>
+<li>Gedung Balai Kebudayaan Karawitan</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
@@ -222,10 +220,10 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							 
-							<li>Instagram: <a href="https://www.instagram.com/p/CWPJDqbhlr9">@kelbalekambang</a> </li>
-							<li>Facebook: <a href="https://www.facebook.com/kelurahan.balekambang">@kelbalekambang</a></li>
-							 
+								<li>Telp: 0218096875 </li>
+								<li>Email: kelurahan.balekambang@gmail.com</li> 
+							<li>Instagram: <a href="https://instagram.com/kelurahanbalekambang">@kelurahanbalekambang</a> </li>
+							<li>Facebook: <a href="https://facebook.com/kelurahan.balekambang">@kelurahan.balekambang</a> </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
@@ -302,7 +300,7 @@
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="https://www.facebook.com/kelurahan.balekambang" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-youtube"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
