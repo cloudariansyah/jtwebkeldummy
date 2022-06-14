@@ -144,7 +144,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_utan_kayu_utara.jpg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
-					<h1 class="font-weight-light">Kelurahan Cakung Timur</h1>
+					<h1 class="font-weight-light">Kelurahan Utan Kayu Utara</h1>
 					<p>terletak di Jl. Kemuning No. 42, Utan Kayu Utara, Matraman, RT.4/RW.7, Utan Kayu Utara, Jakarta Timur, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13120 -  Jakarta Timur luas wilayah 107,4 Ha dengan jumlah RW 10 jumlah RT 132.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
