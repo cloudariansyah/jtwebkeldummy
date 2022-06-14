@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Kecanatan Cipayung</title>
+    <title>Kecamatan Cipayung</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/carousel/">
 
@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kecamatan Cipayung</h1>
-					<p>terletak di Jl. </p>
+					<p>terletak di Jl. Bina Marga No.2, RT.6/RW.2, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -159,13 +159,13 @@ s0.parentNode.insertBefore(s1,s0);
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Camat Cipayung</h2>
-            <p>NAMA</p>
+            <p>Fajar Eko Satrio</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Lurah Cipayung</h2>
-            <p>Nama</p>
+            <p>drs. H. Agus Samsuri</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
@@ -179,7 +179,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kecamatan Cipayung <span class="text-muted">Kecamatan CIpayung</span></h2>
-            <p class="lead">terletak di Jl Raya Cipayung No 1A </p>
+            <p class="lead">terletak di Jl. Bina Marga No.2, RT.6/RW.2, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
