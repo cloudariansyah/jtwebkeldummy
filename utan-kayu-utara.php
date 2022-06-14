@@ -206,18 +206,16 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Jakarta Garden City</li>
-<li>IKEA Jakarta Garden City</li>
-<li>Puskesmas Cakung Timur</li>
-<li>KPP Madya Dua Jakarta Timur</li>
-<li>Kantor Urusan Agama (KUA)</li>
-<li>AEON MALL JGC</li>
-<li>Menantea The Savo JGC</li>
-<li>Kuliner Makanan JCO</li>
-<li>Holland Bakery</li>
-<li>D'cika Cakes & Bakery</li>
+							<li>Kantor Kelurahan</li>
+<li>BPKP Perwakilan DKI Jakarta</li>
+<li>PWNU DKI Jakarta</li>
+<li>Puskesmas Utan Kayu</li>
+<li>Klinik Zafira Medika Kayumanis</li>
+<li>SMP Negeri 7 Jakarta</li>
+<li>Gelanggang Remaja Kecamatan Matraman</li>
+<li>BCA KCP Utan Kayu</li>
+<li>Waroeng Steak & Shake Jakarta</li>
 <li>Pom Bensin Pertamina</li>
-<li>Taman Kota Jakarta Garden City</li>
 <li>Pizza Hut Restoran</li>
 </p>
                         </div>
@@ -227,11 +225,11 @@
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h2 class="card-title">Hubungi</h2>
+                            <h2 class="card-title">Hubungi 021 8505154</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
-							<li>Instagram: <a href="https://www.instagram.com/kelurahanuku">@kelurahanuku</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/kelurahanutankayuutara/?hl=id">@kelurahanutankayuutara</a> </li>
 							<li>Facebook: <a href="https://facebook.com/KelurahanUtanKayuUtara">Kelurahan Utan Kayu Utara </a></li>
 							 
 							</ul>
