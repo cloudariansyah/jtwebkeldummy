@@ -141,7 +141,7 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_utan_kayu_utara.jpg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_utan_kayu_selatan.jpg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Utan Kayu Selatan</h1>
@@ -231,8 +231,8 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
-							<li>Instagram: <a href="https://www.instagram.com/kelurahanuku">@kelurahanuku</a> </li>
-							<li>Facebook: <a href="https://facebook.com/KelurahanUtanKayuUtara">Kelurahan Utan Kayu Selatan</a></li>
+							<li>Instagram: <a href="https://www.instagram.com/kel.uks/?hl=id">@kel.uks</a> </li>
+							<li>Facebook: <a href="https://www.facebook.com/kelurahan.utankayuselatan">Kelurahan Utan Kayu Selatan</a></li>
 							 
 							</ul>
                         </div>
