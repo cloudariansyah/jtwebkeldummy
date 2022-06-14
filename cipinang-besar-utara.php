@@ -210,6 +210,7 @@
 <li>Kejaksaan Negeri - Jakarta Timur</li>
 <li>RS Pengayoman Cipinang</li>
 <li>Puskesmas Kelurahan Cipinang Besar Utara</li>
+<li>Apotik Generik</li>							
 <li>Kantor Imigrasi Kelas I TPI Jakarta Timur</li>
 <li>Kantor Urusan Agama (KUA)</li>
 <li>TPU Prumpung Cipinang</li>
