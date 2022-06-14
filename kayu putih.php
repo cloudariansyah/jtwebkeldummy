@@ -141,11 +141,11 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Kayu Putih.jpg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kecamatan Makasar</h4>
-					<h1 class="font-weight-light">Kelurahan Pinang Ranti</h1>
-					<p>terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah RW 5 jumlah RW 54.</p>
+                    <h4 class="font-weight-light">Kecamatan Pulogadung</h4>
+					<h1 class="font-weight-light">Kelurahan Kayu Putih</h1>
+					<p>terletak di Jl. Genteng No.2, RT.3/RW.1, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13210.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -158,12 +158,12 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Pinang Ranti <span class="text-muted">Kecamatan Makasar</span></h2>
-            <p class="lead">terletak di Jl. SMA 48 RT 14 RW 01 Kelurahan Pinang Ranti Kecamatan Makasar – 13560 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah RW 5 jumlah RW 54.</p>
+            <h2 class="featurette-heading">Kelurahan Kayu Putih <span class="text-muted">Kecamatan Pulogadung</span></h2>
+            <p class="lead">terletak di Jl. Genteng No.2, RT.3/RW.1, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13210.</p>
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31726.481519493445!2d106.86785538411829!3d-6.288662051087423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f299b21a9357%3A0x8451f94f09d2490b!2sPinang%20Ranti%2C%20Makasar%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644469039098!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.co.id/maps/place/Kantor+Lurah+Kayu+Putih/@-6.1858535,106.8813923,16z/data=!4m13!1m6!3m5!1s0x2e69f4e822a05bbb:0xc4ae47031b4bffed!2sKantor+Lurah+Kayu+Putih!8m2!3d-6.1857643!4d106.8874295!3m5!1s0x2e69f4e822a05bbb:0xc4ae47031b4bffed!8m2!3d-6.1857643!4d106.8874295!15sChdrYW50b3IgbHVyYWgga2F5dSBwdXRpaJIBFmNpdHlfZ292ZXJubWVudF9vZmZpY2U" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
@@ -206,19 +206,10 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Rumah Sakit Haji Jakarta</li>
-<li>RS TK.II Moh. Ridwan Meuraksa</li>
-<li>Puskesmas Pinang Ranti</li>
-<li>Klinik Taradita 48</li>
-<li>Apotik Yeta Farma II</li>
-<li>Mall Tamini Square</li>
-<li>Restorant Tradisional KARIMATA</li>
-<li>Kuliner Makanan JCO</li>
-<li>Holland Bakery</li>
-<li>D'cika Cakes & Bakery</li>
-<li>Pom Bensin Pertamina</li>
-<li>Taman Anggrek Indonesia Permai</li>
-<li>Pizza Hut Restoran</li>
+							
+<li>Poli Vaksin Klinik Dokter Keluarga Fkui</li>
+<li>Apotik Golden Libra 2</li>
+<li>VIDI ARENA PULOMAS</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
@@ -231,7 +222,7 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
-							<li>Instagram: <a href="https://instagram.com/kelpinangranti">@kelpinangranti</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/kelurahankayuputih_jkt/">@kelurahankayuputih_jkt</a> </li>
 							 
 							</ul>
                         </div>
