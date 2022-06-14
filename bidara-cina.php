@@ -143,7 +143,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Bidara Cina</h1>
-					<p>terletak di Jl.Otto Iskandar Dinata, No. 32C, RT.10/RW.2, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur </p>
+					<p>terletak di Jl.Otto Iskandar di Nata, Kampung Melayu No. 32C, RT.10/RW.2, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -178,7 +178,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Bidara Cina <span class="text-muted">Kecamatan Jatinegara</span></h2>
-            <p class="lead">terletak di Jl.Otto Iskandar Dinata, No. 32C, RT.10/RW.2, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur</p>
+            <p class="lead">terletak di Jl.Otto Iskandar di Nata, Kampung Melayu No. 32C, RT.10/RW.2, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
@@ -216,7 +216,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <p class="card-text">
 							<ul><li>Pelayanan Pencatatan Biodata Penduduk WNI</li>
 <li>Pelayanan Penertiban KK</li>
-<li>Pelayanan Biodata Penduduk WNI yang ebrtempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
+<li>Pelayanan Biodata Penduduk WNI yang bertempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
 <li>Penerbitan KK karena perubahan data</li>
 <li>Pelayanan KK karena hilang atau rusak </li>
 <li>Pelayanan KTP-el karena adanya perubahan data/biodata</li>
@@ -234,7 +234,7 @@ s0.parentNode.insertBefore(s1,s0);
 <li>Pencatatan kematian penduduk yang hilang dan tidak ditemukan jenazahnya atau tidak jelas keberadaannya</li>
 <li>Pelayanan KIA</li>
 <li>Pelayanan KIA karena hilang atau rusak</li>
-<li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
+<li>Pendataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>
