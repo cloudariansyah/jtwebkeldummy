@@ -213,6 +213,7 @@
 <li>Kantor Urusan Agama (KUA)</li>
 <li>Lapangan Putra Fajar</li>
 <li>Vilamas Bellevue Pamulang</li>
+<li>Homestay</li>
 <li>METRO TRANS</li>
 <li>Pamulang Small Village</li>
 <li>Pom Bensin Pertamina</li>
