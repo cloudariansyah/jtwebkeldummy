@@ -206,19 +206,18 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Jakarta Garden City</li>
-<li>IKEA Jakarta Garden City</li>
-<li>Puskesmas Cakung Timur</li>
-<li>KPP Madya Dua Jakarta Timur</li>
+							<li>Kantor Lurahan Bambu Apus</li>
+<li>Pasar Pagi Villa Pamulang Mas</li>
+<li>Puskesmas Kelurahan Bambu Apus</li>
+<li>Klinik Bambu Apusr</li>
 <li>Kantor Urusan Agama (KUA)</li>
-<li>AEON MALL JGC</li>
-<li>Menantea The Savo JGC</li>
-<li>Kuliner Makanan JCO</li>
-<li>Holland Bakery</li>
-<li>D'cika Cakes & Bakery</li>
+<li>Lapangan Putra Fajar</li>
+<li>Vilamas Bellevue Pamulang</li>
+<li>METRO TRANS</li>
+<li>Pamulang Small Village</li>
 <li>Pom Bensin Pertamina</li>
-<li>Taman Kota Jakarta Garden City</li>
-<li>Pizza Hut Restoran</li>
+<li>Pempek FINKY</li>
+<li>Kedai Coffe</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
