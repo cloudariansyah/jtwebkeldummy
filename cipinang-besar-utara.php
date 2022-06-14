@@ -145,7 +145,7 @@
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Cipanang Besar Utara</h1>
-					<p>terletak di Jl. Swadaya No.2, RT.6/RW.14, Cipinang Besar Utara, Kecamatan Jatinegara, Kota Jakarta Timur - 13410, Daerah Khusus Ibukota Jakarta luas wilayah 1,15 km² dengan jumlah RW 14 jumlah RT  .</p>
+					<p>terletak di Jl. Swadaya No.2, RT.6/RW.14, Cipinang Besar Utara, Kecamatan Jatinegara, Kota Jakarta Timur - 13410, Daerah Khusus Ibukota Jakarta luas wilayah 1,15 km² dengan jumlah RW 14 jumlah RT 192  .</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -159,7 +159,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Cipinang Besar Utara<span class="text-muted">Kecamatan Jatinegara</span></h2>
-            <p class="lead">terletak di Jl. Swadaya No.2, RT.6/RW.14, Cipinang Besar Utara, Kecamatan Jatinegara, Kota Jakarta Timur - 13410, Daerah Khusus Ibukota Jakarta luas wilayah 1,15 km² dengan jumlah RW 14 jumlah RT  .</p>
+            <p class="lead">terletak di Jl. Swadaya No.2, RT.6/RW.14, Cipinang Besar Utara, Kecamatan Jatinegara, Kota Jakarta Timur - 13410, Daerah Khusus Ibukota Jakarta luas wilayah 1,15 km² dengan jumlah RW 14 jumlah RT 192 .</p>
                     
           </div>
           <div class="col-md-5">
