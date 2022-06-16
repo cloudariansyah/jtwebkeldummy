@@ -130,7 +130,7 @@
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Pal Meriam</h1>
-					<p>terletak di Jl.  Kelurahan Pal Meriam Kecamatan Matraman - 13140 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan serta jumlah rw  jumlah rt .</p>
+					<p>terletak di Jl.  Kelurahan Pal Meriam Kecamatan Matraman - 13140 - Jakarta Timur.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
