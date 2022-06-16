@@ -225,7 +225,7 @@
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h2 class="card-title">Hubungi</h2>
+                            <h2 class="card-title">Hubungi 021 8400035</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
