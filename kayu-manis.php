@@ -144,12 +144,12 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_kayu_manis.jpg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Johan</h4>
+                    <h1 class="font-weight-light">Johan</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/foto_lurah_kayu_manis.jpeg') }}" alt="foto-lurah" /></p>
               </div>
                   
-                    <h4 class="font-weight-light">Kecamatan Matraman</h1>
+                    <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Kayu Manis</h1>
 					<p>terletak di Jl. Kayu Manis VIII No.36, RT.5/RW.8, Kayu Manis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13130 -  Jakarta Timur luas wilayah 0.57 Km2 dengan jumlah RW 9 jumlah RT 133.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
