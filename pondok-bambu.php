@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Pondok Bambu.JPG" alt="..." /></div>
                 <div class="col-lg-5">
+			<h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Johan</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/foto-lurah-pondok-bambu.jpg') }}" alt="foto-lurah" /></p>
+             	    </div>
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Pondok Bambu</h1>
 					<p>terletak di Jl. Raya Pahlawan Revolusi No.147 Kelurahan Pondok Bambu, Kecamatan Duren Sawit, kotamadya Jakarta Timur, propinsi DKI Jakarta  (kode pos 13430)
@@ -234,7 +239,7 @@ Kelurahan Pondok Bambu memiliki Luas Wilayah 5.00 Km2, terdiri dari 13,337 Kelua
 							<ul>
 							 
 							<li>Instagram: <a href="https://www.instagram.com/kelpondokbambu/">@kelpondokbambu</a> </li>
-							 
+							<li>Facebook: <a href="https://www.facebook.com/kelpondokbambu/">@@kelpondokbambu</a> </li>  
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
