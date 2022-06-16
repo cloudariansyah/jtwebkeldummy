@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/IMG_9106.JPG" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Johan</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/foto-lurah-cipinang-muara.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Cipinang Muara</h1>
 					<p>terletak di Jl. Cipinang Muara Raya No. 1 RT. 002/003 Kelurahan Cipinang Muara, Kecamatan Jatinegara, Kota Administrasi Jakarta Timur – 13420 -  Jakarta Timur luas wilayah 283.50 Ha Ha dengan jumlah RT 176 jumlah RW 16.</p>
