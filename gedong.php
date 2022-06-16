@@ -228,7 +228,7 @@
                             <h2 class="card-title">Hubungi 021 8400035</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/kantorkelurahangedong/?hl=id">@</a>kantorkelurahangedong</li>
 							
 							</ul>
                         </div>
