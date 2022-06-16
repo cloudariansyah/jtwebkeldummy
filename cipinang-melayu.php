@@ -146,7 +146,7 @@
                     <h4 class="font-weight-light">Lurah</h4>
                     <h1 class="font-weight-light">Tabrani</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('frontend/kelurahan/foto_lurah_cipinang_melayu.jpg') }}" alt="foto-lurah" /></p>
+                     url('frontend/kelurahan/lurah_cipinang_melayu.jpg') }}" alt="foto-lurah" /></p>
               </div>
                   
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
