@@ -126,8 +126,13 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto gedung kelurahan rambutan.jpg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Ikhwan Muhamad Ali, SH.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Ikhwan Muhamad Ali, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/Ikhwan Muhamad Ali, SH.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Kelurahan Rambutan</h1>
 					<p>terletak di Jl.</p>
@@ -150,7 +155,7 @@
                      
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31725.6103715271!2d106.8583553341272!3d-6.302922001608869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed7b5ba79773%3A0x19eff4ef2cbfc04c!2sRambutan%2C%20Ciracas%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644468839290!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31725.6103715271!2d106.8583553341272!3d-6.302922001608869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed7b5ba79773%3A0x19eff4ef2cbfc04c!2sRambutan%2C%20Ciracas%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644468839290!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
@@ -228,8 +233,8 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>Instagram: <a href="https://instagram.com/">@kelurahanrambutan</a> </li>
-							
+							<li>Instagram: <a href="https://instagram.com/kelurahanrambutan">@kelurahanrambutan</a> </li>
+								<li>Facebook: <a href="https://facebook.com/">@Kelurahan Rambutan</a> </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
