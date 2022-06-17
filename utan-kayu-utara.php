@@ -168,7 +168,7 @@
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/North+Utan+Kayu,+Matraman,+East+Jakarta+City,+Jakarta/@-6.1962193,106.8634426,16z/data=!3m1!4b1!4m5!3m4!1s0x2e69f48ad855bad3:0x3cfb41d21f77bcc8!8m2!3d-6.1967581!4d106.8665147" weight="100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/North+Utan+Kayu,+Matraman,+East+Jakarta+City,+Jakarta/@-6.1962193,106.8634426,16z/data=!3m1!4b1!4m5!3m4!1s0x2e69f48ad855bad3:0x3cfb41d21f77bcc8!8m2!3d-6.1967581!4d106.8665147" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
