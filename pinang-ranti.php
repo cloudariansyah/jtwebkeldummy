@@ -150,7 +150,7 @@
               </div>
                   
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
-					<h1 class="font-weight-light">Kelurahan Pinang Ranti</h1>
+					<h1 class="font-weight-light">kelurahan Pinang Ranti</h1>
 					<p>terletak di Jl. SMA Negeri 48 Kelurahan Pinang Ranti, Kecamatan Makasar, kotamadya Jakarta Timur, propinsi DKI Jakarta 13560 -  Jakarta Timur luas wilayah 1.89 Km2 dengan jumlah RW 4 jumlah RT 51.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
