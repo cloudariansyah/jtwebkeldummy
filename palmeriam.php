@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -205,7 +204,7 @@
 <li>Pencatatan kematian penduduk yang hilang dan tidak ditemukan jenazahnya atau tidak jelas keberadaannya</li>
 <li>Pelayanan KIA</li>
 <li>Pelayanan KIA karena hilang atau rusak</li>
-<li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
+<li>Pendataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>-->
