@@ -226,6 +226,7 @@
                     <div class="card h-100">
                         <div class="card-body">
                             <h2 class="card-title">Hubungi</h2>
+			    <p class="card-text">Nomor Telpon 021 8451676</p>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
