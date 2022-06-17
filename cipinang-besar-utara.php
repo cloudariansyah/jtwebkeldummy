@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_cipinang_besar_utara.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Cipanang Besar Utara</h1>
 					<p>terletak di Jl. Swadaya No.2, RT.6/RW.14, Cipinang Besar Utara, Kecamatan Jatinegara, Kota Jakarta Timur - 13410, Daerah Khusus Ibukota Jakarta luas wilayah 1,15 km² dengan jumlah RW 14 jumlah RT 192  .</p>
