@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/balekambang.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+			<h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Johan</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/foto-lurah-pondok-bambu.jpg') }}" alt="foto-lurah" /></p>
+		    </div>
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Bale Kambang</h1>
 					<p>terletak di Jl. Gardu Pucung RT 009 RW 02 Kelurahan Bale kambang Kecamatan Kramat Jati – 13530 -  Jakarta Timur luas wilayah ... Ha dengan jumlah RW XX jumlah RW XX.</p>
