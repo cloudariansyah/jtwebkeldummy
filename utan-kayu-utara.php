@@ -141,8 +141,13 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_utan_kayu_utara.jpg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/IMG-20220609-WA0002.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Johan</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Utan Kayu Utara</h1>
 					<p>terletak di Jl. Kemuning No. 42, Utan Kayu Utara, Matraman, RT.4/RW.7, Utan Kayu Utara, Jakarta Timur, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13120 -  Jakarta Timur luas wilayah 107,4 Ha dengan jumlah RW 10 jumlah RT 132.</p>
@@ -163,7 +168,7 @@
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/North+Utan+Kayu,+Matraman,+East+Jakarta+City,+Jakarta/@-6.1962193,106.8634426,16z/data=!3m1!4b1!4m5!3m4!1s0x2e69f48ad855bad3:0x3cfb41d21f77bcc8!8m2!3d-6.1967581!4d106.8665147" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/North+Utan+Kayu,+Matraman,+East+Jakarta+City,+Jakarta/@-6.1962193,106.8634426,16z/data=!3m1!4b1!4m5!3m4!1s0x2e69f48ad855bad3:0x3cfb41d21f77bcc8!8m2!3d-6.1967581!4d106.8665147" weight="100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
