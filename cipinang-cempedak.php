@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_cipinang_cimpedak.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Cipanang Cempedak</h1>
 					<p>terletak di JL. Panti Asuhan, kelurahan Cipinang Cempedak, kecamatan Jatinegara, kotamadya Jakarta Timur, propinsi DKI Jakarta, 13340, Daerah Khusus Ibukota Jakarta luas wilayah 120 Ha dengan jumlah RW 11 jumlah RT 154 .</p>
@@ -163,7 +168,7 @@
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Cipinang+Cempedak,+Jatinegara,+East+Jakarta+City,+Jakarta/@-6.2364021,106.8648802,15z/data=!3m1!4b1!4m5!3m4!1s0x2e69f30cd420b7a7:0xf3685407410d2862!8m2!3d-6.2386548!4d106.8738909" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Cipinang+Cempedak,+Jatinegara,+East+Jakarta+City,+Jakarta/@-6.2364021,106.8648802,15z/data=!3m1!4b1!4m5!3m4!1s0x2e69f30cd420b7a7:0xf3685407410d2862!8m2!3d-6.2386548!4d106.8738909" weight="100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
