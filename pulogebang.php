@@ -158,7 +158,7 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Pulo Gebang<span class="text-muted">Kecamatan Makasar</span></h2>
+            <h2 class="featurette-heading">Kelurahan Pulo Gebang<span class="text-muted">Kecamatan cakung</span></h2>
             <p class="lead">terletak di Jl. Raya Pulogebang RT 06 RW 03 Kelurahan Pulo Gebang  Kecamatan Cakung – 24164 -  Jakarta Timur luas wilayah 685.81 Ha dengan jumlah RT 201 jumlah RW 17.</p>
                     
           </div>
