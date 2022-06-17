@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kantor kel cibubur.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lura</h4>
+                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Kelurahan Cibubur </h1>
 					<p>terletak di Jl. Raya Lapangan Tembak RT 005 Rw 002 Kelurahan Cibubur Kecamatan Ciracas – 13720 -  Jakarta Timur luas wilayah XX Ha dengan jumlah RT XX jumlah RW XX.</p>
@@ -163,7 +168,7 @@
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31722.401189241747!2d106.86462028416017!3d-6.3551786535429615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ecec704c51eb%3A0x71df083600e46255!2sCibubur%2C%20Ciracas%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644468735054!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31722.401189241747!2d106.86462028416017!3d-6.3551786535429615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ecec704c51eb%3A0x71df083600e46255!2sCibubur%2C%20Ciracas%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644468735054!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
