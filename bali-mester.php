@@ -141,8 +141,13 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_bali_mester.jpeg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Lurah Bali Mester.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+			<h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Johan</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/Foto Lurah Bali Mester.jpeg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Bali Mester</h1>
 					<p>terletak di Jatinegara Barat 2 No.19, RT.12/RW.3, Kecamatan Jatinegara, kotamadya Jakarta Timur, propinsi DKI Jakarta 13310 -  Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
@@ -232,7 +237,7 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
-							<li>Instagram: <a href="https://www.instagram.com/kelurahan_balimester/?hl=id">@kelurahan_balimester</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/kelurahan_balimester">@kelurahan_balimester</a> </li>
 							 
 							</ul>
                         </div>
