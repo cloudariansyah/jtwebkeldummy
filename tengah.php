@@ -265,7 +265,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<li>Twitter: </li>
 							<li>Instagram:  </li>
 							<li>Facebook: </li>
-							<li>Youtube: </li>
+							<li>Youtube:https://youtube.com/channel/UCoPo5dFvF3knmOzqaLMUDiQ </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
