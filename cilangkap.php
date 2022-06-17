@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -58,7 +57,7 @@ s0.parentNode.insertBefore(s1,s0);
 
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Kelurahan Cilangkpa</a>
+        <a class="navbar-brand" href="#">Kelurahan Cilangkap</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -225,13 +224,13 @@ s0.parentNode.insertBefore(s1,s0);
                             <p class="card-text">
 							<ul><li>Pelayanan Pencatatan Biodata Penduduk WNI</li>
 <li>Pelayanan Penertiban KK</li>
-<li>Pelayanan Biodata Penduduk WNI yang ebrtempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
+<li>Pelayanan Biodata Penduduk WNI yang bertempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
 <li>Penerbitan KK karena perubahan data</li>
 <li>Pelayanan KK karena hilang atau rusak </li>
 <li>Pelayanan KTP-el karena adanya perubahan data/biodata</li>
 <li>Pelayanan KTP-el karena hilang atau rusak</li>
 <li>Pelayanan KTP-el bagi Penduduk WNI di luar domisili</li>
-<!--<li>Pelayanan perekaman KTP-el baru</li>
+<li>Pelayanan perekaman KTP-el baru</li>
 <li>Pelayanan KTP-el karena pindah data</li>
 <li>Pelayanan SKP</li>
 <li>Pelayanan SKP penduduk yang dilakukan di Kelurahan tujuan bersamaan dengan pelaporan kedatangan</li>
@@ -243,7 +242,7 @@ s0.parentNode.insertBefore(s1,s0);
 <li>Pencatatan kematian penduduk yang hilang dan tidak ditemukan jenazahnya atau tidak jelas keberadaannya</li>
 <li>Pelayanan KIA</li>
 <li>Pelayanan KIA karena hilang atau rusak</li>
-<li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
+<li>Pendataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>
