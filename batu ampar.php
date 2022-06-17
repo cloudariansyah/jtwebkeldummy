@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Batu Ampar.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Batu Ampar</h1>
 					<p>terletak di Jl. Batu Ampar II No.8, RT.8/RW.3, Kramat Jati, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13520, Indonesia</p>
@@ -163,7 +168,7 @@
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Kantor+Lurah+Batu+Ampar+-+Jakarta+Timur/@-6.282853,106.858927,16z/data=!4m5!3m4!1s0x0:0x73964bd7dbdbd223!8m2!3d-6.2828017!4d106.8589282?hl=id" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Kantor+Lurah+Batu+Ampar+-+Jakarta+Timur/@-6.282853,106.858927,16z/data=!4m5!3m4!1s0x0:0x73964bd7dbdbd223!8m2!3d-6.2828017!4d106.8589282?hl=id" weight="100" height="450" style="border:0;" allowfullscreen=""  loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
