@@ -25,7 +25,7 @@
              call_to_action: "Chat Center Kelurahan", // Call to action
 		position: "left", // Position may be 'right' or 'left'
                 whatsapp: "", // WhatsApp number
-          instagram: "@",
+          instagram: "@kelurahanpondokkopi",
 		//email: "lurahponkop@gmail.com", // Email
 button_color: "#cc9933", // Color of button
  
