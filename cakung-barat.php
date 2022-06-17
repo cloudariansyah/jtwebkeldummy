@@ -232,6 +232,7 @@
                         <div class="card-body">
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
+			    <p class="card-text">No Telpon 021 4600915</p>
 							<ul>
 							 
 							<li>Instagram: <a href="https://www.instagram.com/cakungtimurofficial/?hl=id">@cakungtimurofficial</a> </li>
