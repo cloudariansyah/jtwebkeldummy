@@ -212,7 +212,7 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Kantor Kelurahan Kayu Manis</li>
+							<liKantor Kelurahan Kayu manis</li>
 <li>Pramuka Raya</li>
 <li>Puskesmas Kelurahan Kayu Manis</li>
 <li>Raja Susu</li>
