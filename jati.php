@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_jati.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
 					<h1 class="font-weight-light">Kelurahan Jati</h1>
 					<p>terletak di Jl. Perhubungan Raya No. 79C Kelurahan Jati, Kecamatan Pulo Gadung, kotamadya Jakarta Timur, propinsi DKI Jakarta 13220 -  Jakarta Timur luas wilayah 2.15 km² dengan jumlah RW 8 jumlah RT 128.</p>
