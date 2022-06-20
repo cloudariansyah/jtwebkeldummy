@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Rawa Terate</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -230,7 +230,7 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
-							<li>Instagram: <a href="">@</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/explore/tags/kelurahanrawaterate/?hl=id">@</a>kelurahanrawaterate </li>
 							<li>Facebook: <a href="">Kelurahan Rawa Terate</a></li>
 							 
 							</ul>
