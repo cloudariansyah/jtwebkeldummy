@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Cipinang Muara</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -144,7 +144,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/IMG_9106.JPG" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Johan</h1>
+                    <h1 class="font-weight-light">Ciptono</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/foto-lurah-cipinang-muara.jpg') }}" alt="foto-lurah" /></p>
               </div>
