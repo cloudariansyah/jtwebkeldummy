@@ -128,7 +128,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto  Kelurahan Duren Sawit.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		<h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Johan</h1>
+                    <h1 class="font-weight-light">Santi Nur Rifiandini</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/foto-lurah-duren-sawit.jpg') }}" alt="foto-lurah" /></p>
               </div>
