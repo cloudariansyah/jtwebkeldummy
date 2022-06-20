@@ -219,6 +219,7 @@ Kelurahan Pondok Bambu memiliki Luas Wilayah 5.00 Km2, terdiri dari 13,337 Kelua
 <li>Klinik Medisa 48</li>
 <li>Apotik K24 II</li>
 <li>Mall Cipinang Indah</li>
+<li>Supermarket Tip Top Pondok Bambu</li>								
 <li>Restorant Tradisional Alsadda</li>
 <li>Kuliner Makanan Hokben </li>
 <li>Holland Bakery</li>
