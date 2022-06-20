@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kecamatan Ciracas</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -149,7 +149,7 @@
                      url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
-					<h1 class="font-weight-light">Kelurahan Ciracas</h1>
+					<h1 class="font-weight-light">Jakarta Timur</h1>
 					<p>terletak di Jl. Penganten Ali No.9 Kelurahan Ciracas, kecamatan Ciracas. -  Jakarta Timur luas wilayah XX Ha dengan jumlah RW XX jumlah RT XX.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
@@ -163,7 +163,7 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Ciracas<span class="text-muted">Kecamatan Ciracas</span></h2>
+            <h2 class="featurette-heading"><span class="text-muted">Kecamatan Ciracas</span></h2>
             <p class="lead">terletak di Jl. Penganten Ali No.9 Kelurahan Ciracas, kecamatan Ciracas. -  Jakarta Timur luas wilayah XX Ha dengan jumlah RW XX jumlah RT XX.</p>
                     
           </div>
