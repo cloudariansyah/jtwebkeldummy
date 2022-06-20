@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Kayu Manis</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -144,7 +144,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_kayu_manis.jpg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Johan</h1>
+                    <h1 class="font-weight-light">Nurhamidah Siregar, SE.</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/foto_lurah_kayu_manis.jpeg') }}" alt="foto-lurah" /></p>
               </div>
