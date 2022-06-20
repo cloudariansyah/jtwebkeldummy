@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Kelurahan Duren Sawit</title>
+  <title>Kecamatan Duren Sawit</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <!-- Favicons -->
@@ -127,13 +127,13 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto  Kelurahan Duren Sawit.jpg" alt="..." /></div>
                 <div class="col-lg-5">
-		<h4 class="font-weight-light">Lurah</h4>
+		<h4 class="font-weight-light">Camat</h4>
                     <h1 class="font-weight-light">Santi Nur Rifiandini</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/foto-lurah-duren-sawit.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
-					<h1 class="font-weight-light">Kelurahan Duren Sawit</h1>
+					<h1 class="font-weight-light">Jakarta Timur</h1>
 					<p>terletak di Jl. Swadaya VIII No.1 Kelurahan Duren Sawit Kecamatan Duren Sawit - 13440 - Jakarta Timur luas wilayah dengan bujur barat  dan lintang selatan  serta jumlah rw  jumlah rt .</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
@@ -149,7 +149,7 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Duren Sawit <span class="text-muted">Kecamatan Duren Sawit</span></h2>
+            <h2 class="featurette-heading">Kecamatan Duren Sawit <span class="text-muted">Jakarta Timur</span></h2>
             <p class="lead">terletak di Jl. Swadaya VIII No.1 Kelurahan Duren Sawit Kecamatan Duren Sawit - 13440 - Jakarta Timur luas wilayah dengan bujur barat  dan lintang selatan  serta jumlah rw  jumlah rt</p>
                      
           </div>
