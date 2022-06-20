@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
 					<h1 class="font-weight-light">Kelurahan Halim Perdana Kusuma</h1>
-					<p>terletak di Jl.Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta</p>
+					<p>terletak di Jl.Squadron  No 1A, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -164,7 +164,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Halim Perdana Kusuma  <span class="text-muted">Kecamatan Makasar</span></h2>
-            <p class="lead">terletak di Jl.Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta</p>
+            <p class="lead">terletak di Jl. Squadron No 1A, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta</p>
                     
           </div>
           <div class="col-md-5">
