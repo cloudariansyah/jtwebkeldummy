@@ -188,7 +188,7 @@
 <li>Pelayanan KTP-el karena hilang atau rusak</li>
 <li>Pelayanan KTP-el bagi Penduduk WNI di luar domisili</li>
 <li>Pelayanan perekaman KTP-el baru</li>
-<li>Pelayanan KTP-el karena pindah data</li>
+<!--<li>Pelayanan KTP-el karena pindah data</li>
 <li>Pelayanan SKP</li>
 <li>Pelayanan SKP penduduk yang dilakukan di Kelurahan tujuan bersamaan dengan pelaporan kedatangan</li>
 <li>Pelayanan pelaporan kedatangan penduduk</li>
