@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kecamatan Jatinegarar</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -143,14 +143,14 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/IMG-20220609-WA0002.jpg" alt="..." /></div>
                 <div class="col-lg-5">
-		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+		    <h4 class="font-weight-light">Camat</h4>
+                    <h1 class="font-weight-light">Nasrudin Abubakar</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
               </div>
-                    <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
-					<h1 class="font-weight-light">Kelurahan Jatinegara</h1>
-					<p>terletak di Jl. Kemuning No. 42, Utan Kayu Utara, Matraman, RT.4/RW.7, Utan Kayu Utara, Jakarta Timur, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13120 -  Jakarta Timur luas wilayah 107,4 Ha dengan jumlah RW 10 jumlah RT 132.</p>
+                    <h4 class="font-weight-light">Jakarta Timur</h4>
+					<h1 class="font-weight-light">Kecamatan Jatinegara</h1>
+					<p>terletak di Jl. DI. Panjaitan No.11, RT.11/RW.1, Cipinang Cempedak, Jatinegara, East Jakarta City, Jakarta 13340-  Jakarta Timur terdiri dari 8 Kelurahan.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -163,12 +163,12 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Utan Kayu Utara<span class="text-muted">Kecamatan Matraman</span></h2>
-            <p class="lead">terletak di Jl. Kemuning No. 42, Utan Kayu Utara, Matraman, RT.4/RW.7, Utan Kayu Utara, Jakarta Timur, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13120 -  Jakarta Timur luas wilayah 107,4 Ha dengan jumlah RW 10 jumlah RT 132.</p>
+            <h2 class="featurette-heading">Jakarta Timur<span class="text-muted">Kecamatan Jatinegara</span></h2>
+            <p class="lead">terletak di Jl. DI. Panjaitan No.11, RT.11/RW.1, Cipinang Cempedak, Jatinegara, East Jakarta City, Jakarta 13340-  Jakarta Timur terdiri dari 8 Kelurahan.</p>
                     
           </div>
           <div class="col-md-5">
-		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31730.090967147957!2d106.85870783408106!3d-6.229232048943442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f371db68b6af%3A0x23b1331dc3af6398!2sJatinegara%2C%20East%20Jakarta%20City%2C%20Jakarta!5e0!3m2!1sen!2sid!4v1644465471956!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
+		  <div class="card-body"><p class="text-white m-0"><iframe src="https://www.google.com/maps/place/Jatinegara,+East+Jakarta+City,+Jakarta/@-6.229232,106.8587078,14z/data=!3m1!4b1!4m5!3m4!1s0x2e69f371db68b6af:0x23b1331dc3af6398!8m2!3d-6.2284425!4d106.8851503" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p></div>
           <!--  <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
           </div>
         </div>
@@ -220,12 +220,12 @@
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h2 class="card-title">Hubungi 021 8505154</h2>
+                            <h2 class="card-title">Hubungi (021) 85914535</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-								<li>Email: keljatinegarakaun@gmail.com </li>
-							<li>Instagram: <a href="https://www.instagram.com/kelurahanutankayuutara/?hl=id">@kelurahanutankayuutara</a> </li>
-							<li>Facebook: <a href="https://facebook.com/KelurahanUtanKayuUtara">Kelurahan Utan Kayu Utara </a></li>
+								<li>Email: kecjatinegara@gmail.com </li>
+							<li>Instagram: <a href="https://www.instagram.com/kecjatinegara/?hl=id">@kecjatinegara</a> </li>
+							<li>Facebook: <a href="https://www.facebook.com/pages/Kecamatan-Jatinegara/1727464374201041">@Kecamatan Jatinegara</a></li>
 							 
 							</ul>
                         </div>
