@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Halim Perdana Kusuma</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -144,7 +144,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Halim Perdana Kusuma.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <h1 class="font-weight-light">Heru Setiawan</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
               </div>
