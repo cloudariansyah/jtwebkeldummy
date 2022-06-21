@@ -139,14 +139,18 @@
       <!-- Wrap the rest of the page in another container to center all the content. -->
 
       <div class="container marketing">
-
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Kayu Putih.jpg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kantor kel cibubur.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Tuti Sugihastuti</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Pulogadung</h4>
-					<h1 class="font-weight-light">Kelurahan Kayu Putih</h1>
-					<p>terletak di Jl. Genteng No.2, RT.3/RW.1, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13210.</p>
-                    <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
+					<h1 class="font-weight-light">Kelurahan Kayu Putih </h1>
+					<p>terletak di Jl. Genteng No.2 RT.03 RW.01 kelurahan kayu putih Wilayah : Jakarta Timur.</p>
+                    <!--<a class="btn btn-primary" href="#!">Call Center8 Kelurahan Cawang Kecamatan Ciracas</a>-->
                 </div>
             </div>
        
