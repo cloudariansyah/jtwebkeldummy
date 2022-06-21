@@ -127,6 +127,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Kantor Kelurahan Kampung Melayu (Tampak Depan).jpg" alt="..." /></div>
                 <div class="col-lg-5">
+			<h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light"></h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Kampung Melayu</h1>
 					<p>terletak di Jl. Kebon Pala I No.32 RT 003 RW 05 Kelurahan kampung Melayu Kecamatan Jatinegara - 13310 - Jakarta Timur luas wilayah 47,83 Ha dengan bujur barat -6.214.418 dan lintang selatan 106.859.681 serta jumlah rw 9 jumlah rt 106.</p>
