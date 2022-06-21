@@ -143,9 +143,14 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan pulogebang.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kecamatan Cakung</h4>
-					<h1 class="font-weight-light">Kelurahan Pulo Gebang </h1>
-					<p>terletak di Jl. Raya Pulogebang RT 06 RW 03 Kelurahan Pulo Gebang  Kecamatan Cakung – 24164 -  Jakarta Timur luas wilayah 685.81 Ha dengan jumlah RT 201 jumlah RW 17.</p>
+                    <h4 class="font-weight-light">lurah</h4>
+		    <h1 class="font-weight-light">Fajar eko Striyo </h1>
+		    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+		</div>
+		    <h4 class="font-weight-light">Kecamatan Cakung</h4>
+			<h1 class="font-weight-light">Kelurahan Pulogebang </h1>
+			<p>terletak di Jl. Raya Pulogebang RT 06 RW 03 Kelurahan Pulo Gebang  Kecamatan Cakung – 24164 -  Jakarta Timur luas wilayah 685.81 Ha dengan jumlah RT 201 jumlah RW 17.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
