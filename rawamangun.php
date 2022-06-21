@@ -128,6 +128,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Kantor Kelurahan Rawamangun.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
 					<h1 class="font-weight-light">Kelurahan Rawamangun</h1>
 					<p>terletak di Jl. Muka Barat No.3, RT.9/RW.12 Kelurahan Rawamangun Kecamatan Pulo Gadung - 13220 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw  jumlah rt.</p>
