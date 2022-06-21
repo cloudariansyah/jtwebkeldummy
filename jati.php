@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
 					<h1 class="font-weight-light">Kelurahan Jati</h1>
-					<p>terletak di Jl. Perhubungan Raya No. 79C Kelurahan Jati, Kecamatan Pulo Gadung, kotamadya Jakarta Timur, propinsi DKI Jakarta 13220 -  Jakarta Timur luas wilayah 2.15 km² dengan jumlah RW 8 jumlah RT 128.</p>
+					<p>terletak di Jl. Perhubungan Raya No. 79C Kelurahan Jati, Kecamatan Pulo Gadung, kota madya Jakarta Timur, provinsi DKI Jakarta 13220 -  Jakarta Timur luas wilayah 2.15 km² dengan jumlah RW 8 jumlah RT 128.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
