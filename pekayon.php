@@ -127,6 +127,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Kantor Kelurahan Pekayon.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+	            <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">-</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Pasar Rebo</h4>
 					<h1 class="font-weight-light">Kelurahan Pekayon</h1>
 					<p>terletak di Jl. Madrasah RT.003/09 Kelurahan Pekayon Kecamatan Pasar Rebo – 13710 -  Jakarta Timur luas wilayah dengan jumlah RW  jumlah RT.</p>
