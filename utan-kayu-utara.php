@@ -213,15 +213,15 @@
 							<ul>
 							<li>Kantor Kelurahan</li>
 <li>BPKP Perwakilan DKI Jakarta</li>
-<li>PWNU DKI Jakarta</li>
-<li>Puskesmas Utan Kayu</li>
-<li>Klinik Zafira Medika Kayumanis</li>
+<li>Kantor BNPB RI</li>
+<li>Pos Pemadam Kebakaran</li>
+<li>Gedung Is Plaza</li>
 <li>SMP Negeri 7 Jakarta</li>
-<li>Gelanggang Remaja Kecamatan Matraman</li>
+<li>GOR Kecamatan Matraman</li>
 <li>BCA KCP Utan Kayu</li>
-<li>Waroeng Steak & Shake Jakarta</li>
-<li>Pom Bensin Pertamina</li>
-<li>Pizza Hut Restoran</li>
+<li>Hotel New Idola</li>
+<li>SPBU Pertamina Coco</li>
+<li>Pizza Hut Delivery</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
