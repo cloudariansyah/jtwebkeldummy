@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan_Klender_2020.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light"></h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Klender</h1>
 					<p>terletak di Jl. KH. Maisin, RT.8/RW.16, Klender, Kec. Duren Sawit - 13470 - Jakarta Timur luas wilayah 304,90 Ha dengan jumlah RT 182 jumlah RW 17.</p>
