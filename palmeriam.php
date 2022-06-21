@@ -127,6 +127,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Gedung Pal Meriam.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light"></h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Pal Meriam</h1>
 					<p>terletak di Jl.  Kelurahan Pal Meriam Kecamatan Matraman - 13140 - Jakarta Timur.</p>
