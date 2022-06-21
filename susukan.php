@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Gedung Kelurahan Susukan.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light"></h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('') }}" alt="foto-lurah" /></p>
+		</div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Kelurahan Susukan</h1>
 					<p>terletak di Jl. H. Baping RT. 010 RW. 06 Kelurahan Susukan Kecamatan Ciracas – 13750 -  Jakarta Timur luas wilayah 218.85 Ha dengan jumlah RT 89 jumlah RW 7.</p>
