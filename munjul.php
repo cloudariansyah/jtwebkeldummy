@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kantor kelurahan munjul.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+                    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">-</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan </h1>
 					<p>terletak di Jl. Buni No. 1, RT 01 / RW 02, Cibubur, Ciracas, RT.1/RW.2, Munjul, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13850 -  Jakarta Timur luas wilayah 235,15 Ha dengan jumlah RW 5 jumlah RW 54.</p>
