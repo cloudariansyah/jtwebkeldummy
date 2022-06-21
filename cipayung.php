@@ -25,7 +25,7 @@
 		position: "left", // Position may be 'right' or 'left'
                 whatsapp: "021-8444659", // WhatsApp number
           instagram: "@kelurahan_cipayungjt" ,
-		//email: , // Email
+		//email: kel_cipayung@jakarta.go.id, // Email
 button_color: "#cc9933", // Color of button
  
         };
@@ -142,7 +142,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Camat</h4>
-                    <h1 class="font-weight-light">Fajar Eko Satrio</h1>
+                    <h1 class="font-weight-light"></h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
               </div>
