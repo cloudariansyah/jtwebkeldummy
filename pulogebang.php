@@ -144,7 +144,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan pulogebang.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">lurah</h4>
-		    <h1 class="font-weight-light">Fajar eko Striyo </h1>
+		    <h1 class="font-weight-light">Imron</h1>
 		    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
 		</div>
