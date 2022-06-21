@@ -148,7 +148,7 @@ s0.parentNode.insertBefore(s1,s0);
               </div>
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Malaka Jaya</h1>
-					<p>terletak di Jl. </p>
+					<p>terletak di Jl. Raya teratai putih RT.8/RW.6, Malaka Jaya, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13460 </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
