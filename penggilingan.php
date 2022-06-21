@@ -126,14 +126,19 @@ s0.parentNode.insertBefore(s1,s0);
       <!-- Marketing messaging and featurettes
       ================================================== -->
       <!-- Wrap the rest of the page in another container to center all the content. -->
-      <div class="container marketing">
+       <div class="container marketing">
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan penggilingan.jpeg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kantor kel Penggilingan.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">-</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
-					<h1 class="font-weight-light">Kelurahan Penggilingan</h1>
-					<p>terletak di Jl. Pik Penggilingan No.RT.6, RT.6/RW.10, Penggilingan, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13940 .</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>
+					<h1 class="font-weight-light">Kelurahan penggilingan </h1>
+					<p>terletak di Jl. Pik Utara, RT.5/RW.10, Penggilingan, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13940 .</p>
+                    <!--<a class="btn btn-primary" href="#!">Call Center8 Kelurahan Cawang Kecamatan Ciracas</a>-->
                 </div>
             </div>
         <!-- Three columns of text below the carousel -->
