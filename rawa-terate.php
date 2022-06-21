@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_rawa_terate.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light"></h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
 					<h1 class="font-weight-light">Kelurahan Rawa Terate</h1>
 					<p>terletak di Jl. Dr. KRT Radjiman Widyodiningrat No.9, RT.12/RW.4, Rw. Terate, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13920 -  Jakarta Timur luas wilayah 4.10 Km2 dengan jumlah RW 6 jumlah RT 59.</p>
