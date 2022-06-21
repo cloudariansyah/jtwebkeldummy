@@ -143,6 +143,10 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Lubang Buaya.jpg" alt="..." /></div>
                 <div class="col-lg-5">
+		    <h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light"></h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('') }}" alt="foto-lurah" /></p>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan Lubang Buaya</h1>
 					<p>terletak di Jl.Lubang Buaya, Cipayung, East Jakarta City, Jakarta</p>
