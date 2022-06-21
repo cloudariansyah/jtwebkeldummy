@@ -146,6 +146,7 @@ s0.parentNode.insertBefore(s1,s0);
                     <h1 class="font-weight-light"></h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('') }}" alt="foto-lurah" /></p>
+		</div>
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Tengah</h1>
 					<p>terletak di Jl. Masjid Al Bariyah No.40B RT.011/04 </p>
