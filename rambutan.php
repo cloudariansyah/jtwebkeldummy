@@ -134,7 +134,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Kelurahan Rambutan</h1>
-					<p>terletak di Jl.</p>
+					<p>terletak di Jl. Gudang Air No.36, RT.14/RW.2, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830 .</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
