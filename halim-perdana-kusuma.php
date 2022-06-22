@@ -237,7 +237,7 @@
 							<ul>
 							 
 							<li>Instagram: <a href="https://www.instagram.com/kelurahanhalimpk/?hl=id">@kelurahanhalimpk</a> </li>
-							 
+							<li>Youtube: <a href="https://www.youtube.com/channel/UCgh7aOSWcCQUpCbWFCV9D5A?app=desktop">@Kelurahan Halim</a> </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
