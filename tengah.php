@@ -106,7 +106,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -116,7 +116,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption text-right">
                 <h1>Juara 1 Nasional Kategori Pelayanan</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -143,9 +143,9 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Tarmiji</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                    url('frontend/kelurahan/') }}" alt="foto-lurah" /></p>
 		</div>
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Tengah</h1>
@@ -170,7 +170,7 @@ s0.parentNode.insertBefore(s1,s0);
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Lurah Tengah</h2>
-            <p>Nama</p>
+            <p>Tarmiji</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
@@ -265,12 +265,12 @@ s0.parentNode.insertBefore(s1,s0);
                         <div class="card-body">
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
-							<ul>
+							<ul> 
+							<li>Telepon: <a href="">@</a>021 8400647</li>
+							<li>Instagram: <a href="https://www.instagram.com/kelurahan.tengah/?hl=id"></a>kelurahan.tengah</li>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram:  </li>
-							<li>Facebook: </li>
-							<li>Youtube:https://youtube.com/channel/UCoPo5dFvF3knmOzqaLMUDiQ </li>
+							<li>Facebook: <a href="">@</a>Kelurahan Tengah</li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
