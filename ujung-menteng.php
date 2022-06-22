@@ -129,9 +129,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan ujung menteng.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 			  <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">-</h1>
+                    <h1 class="font-weight-light">Agus Sulaeman</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+                     url('frontend/kelurahan/') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
 					<h1 class="font-weight-light">Kelurahan Ujung Menteng</h1>
