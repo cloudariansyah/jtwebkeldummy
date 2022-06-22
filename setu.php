@@ -233,7 +233,7 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>Telepon: </a>021 8465328</li>
+							<li>Facebook: <a href="">021 8465328</a></li>
 							<li>Instagram: <a href="https://www.instagram.com/kelurahansetu/?hl=id">@</a>kelurahansetu </li>
 							</ul>
                         </div>
