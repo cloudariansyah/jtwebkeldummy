@@ -144,9 +144,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Pisangan Baru.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Tuti Sugihastuti</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                     url('foto/foto-lurah-pisangan-baru.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Pisangan Baru</h1>
