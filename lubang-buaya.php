@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Lubang Buaya</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -144,9 +144,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan Lubang Buaya.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Dede Syaipulah</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                     url('frontend/kelurahan/lurah_lubang_buaya.png') }}" alt="foto-lurah" /></p>
 		</div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan Lubang Buaya</h1>
@@ -227,9 +227,9 @@
                         <div class="card-body">
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
-							<ul>
+							<ul>Telepon: <a href=</a> 021 8411734</li>
 							 
-							<li>Instagram: <a href="">@-</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/kelurahan.lubangbuaya/?hl=id">@-</a>kelurahan.lubangbuaya </li>
 							 
 							</ul>
                         </div>
