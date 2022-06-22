@@ -129,9 +129,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Kantor Kelurahan Setu.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Kadarusman Sutama, SE, SH</h1>
+                    <h1 class="font-weight-light"> Jenuri S.E.</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+                     url('frontend/kelurahan/lurah_setu.png') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan Setu</h1>
@@ -233,8 +233,8 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
-							
+							<li>Telepon: </a>021 8465328</li>
+							<li>Instagram: <a href="https://www.instagram.com/kelurahansetu/?hl=id">@</a>kelurahansetu </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
