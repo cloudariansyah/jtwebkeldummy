@@ -227,6 +227,9 @@ Kelurahan Pondok Bambu memiliki Luas Wilayah 5.00 Km2, terdiri dari 13,337 Kelua
 <li>Pom Bensin Pertamina</li>
 <li>Taman RPTRA Pondok Bambu Berserii</li>
 <li>Pizza Hut Restoran</li>
+<li>GOR Balai Rakyat Pondok Bambu</li>
+<li>LAPAS PEREMPUAN KELAS IIA JAKARTA</li>
+<li>SMAN 61 Jakarta</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
