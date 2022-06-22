@@ -144,9 +144,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan_Klender_2020.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Tri Budiyanto</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                    url('frontend/kelurahan/lurah_klender.png') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Klender</h1>
@@ -224,7 +224,7 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 								<li>Email: kel.klender.jt@gmail.com</li>
-								<li>Telp: </li>	
+								<li>Telp: 021 8614773 </li>	
 								<li>Instagram: <a href="Https://www.instagram.com/kel.klender">@kelurahan.Klender</a> </li>
 								<li>Facebook: </li>
 								
