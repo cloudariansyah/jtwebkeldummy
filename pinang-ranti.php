@@ -144,7 +144,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kelurahan_cipinang_ranti.jpg" alt="..." /></div>
                 <div class="col-lg-5">
                     <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Drs. Haris Indrianto, M.Si</h1>
+                    <h1 class="font-weight-light">Haris Indrianto</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/lurah_pinang_ranti.png') }}" alt="foto-lurah" /></p>
               </div>
