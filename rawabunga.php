@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Rawa Bunga</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -144,9 +144,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Syafei</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                   url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Rawa Bunga</h1>
@@ -280,6 +280,7 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
+							<li>Telepon: +62 21 8192468</li>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
 							<li>Instagram: <a href="https://www.instagram.com/p/CeP2n1VJCuS/?utm_source=ig_web_copy_link">@kelurahan.rawabunga</a> </li>
