@@ -142,7 +142,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kelurahan MAlaka Sariii.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">-</h1>
+                    <h1 class="font-weight-light">Rusli Abidin</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('foto/foto_lurah_malakah _sari.jpg') }}" alt="foto-lurah" /></p>
               </div>
