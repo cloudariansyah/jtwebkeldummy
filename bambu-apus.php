@@ -237,7 +237,7 @@
 							<ul>
 							 
 							<li>Instagram: <a href="https://www.instagram.com/kel.bambuapus/?hl=id">@kel.bambuapus</a> </li>
-							 
+							 <li>Facebook: <a href="https://id-id.facebook.com/kelurahan.bambuapus">@Bambu Apus</a> </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
