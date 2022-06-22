@@ -128,7 +128,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Kantor Kelurahan Kampung Melayu (Tampak Depan).jpg" alt="..." /></div>
                 <div class="col-lg-5">
 			<h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Angga Harjuno Rakasiwi</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('') }}" alt="foto-lurah" /></p>
               </div>
