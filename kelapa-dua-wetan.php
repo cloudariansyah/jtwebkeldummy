@@ -142,7 +142,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 		  <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">-</h1>
+                    <h1 class="font-weight-light">Sandi Adamsyah, S.E.</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
               </div>
@@ -169,7 +169,7 @@ s0.parentNode.insertBefore(s1,s0);
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Lurah Kelapa Dua Wetan</h2>
-            <p> Sri Mulyati</p>
+            <p> Sandi Adamsyah, S.E</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
