@@ -95,7 +95,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Terbaik 1 Se-Jakarta Timur</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -105,7 +105,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -115,7 +115,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption text-right">
                 <h1>Juara 1 Nasional Kategori Pelayanan</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -141,10 +141,10 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+		    <h4 class="font-weight-light">Camat</h4>
+                    <h1 class="font-weight-light"> Kamal Alatas</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                    url('frontend/kelurahan/camat_makasar.png') }}" alt="foto-camat" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Makasar</h4>
 					<h1 class="font-weight-light">Kecamatan Makasar</h1>
@@ -163,13 +163,13 @@ s0.parentNode.insertBefore(s1,s0);
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Camat Makasar</h2>
-            <p>NAMA</p>
+            <p>Kamal Alatas</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Lurah Pinang Ranti</h2>
-            <p>Nama</p>
+            <h2>Lurah </h2>
+            <p>-</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kecamatan Makasar <span class="text-muted">Kecamatan Makasar</span></h2>
-            <p class="lead">terletak di Jl. </p>
+            <p class="lead">terletak di Jl. Lembur No.1, RT.13/RW.6, Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13570, Indonesia </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
@@ -266,9 +266,10 @@ s0.parentNode.insertBefore(s1,s0);
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
+							<li>Telepon:(021) 8096939</li>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: <a href="https://instagram.com/">@</a> </li>
+							<li>Instagram: <a href="https://www.instagram.com/kecamatanmakasar/?hl=id">@</a>KecamatanMakasar </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
