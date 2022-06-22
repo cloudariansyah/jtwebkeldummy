@@ -95,7 +95,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Terbaik 1 Se-Jakarta Timur</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -105,7 +105,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption">
                 <h1>Terbaik Se-DKI Tahun 2022</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -115,7 +115,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="container">
               <div class="carousel-caption text-right">
                 <h1>Juara 1 Nasional Kategori Pelayanan</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p></p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">selengkapnya</a></p>
               </div>
             </div>
@@ -142,7 +142,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Rudy Syahrul</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('') }}" alt="foto-lurah" /></p>
               </div>
@@ -163,13 +163,13 @@ s0.parentNode.insertBefore(s1,s0);
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Camat kramat jati</h2>
-            <p>NAMA</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <p>Rudy Syahrul</p>
+            <p><a class="btn btn-secondarRudy Syahruly" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Lurah kramat jati</h2>
-            <p>Nama</p>
+            <p>-</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
