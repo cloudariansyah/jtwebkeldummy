@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Tengah <span class="text-muted">Kecamatan Kramat Jati</span></h2>
+            <h2 class="featurette-heading">Kelurahan Tengah<span class="text-muted">Kecamatan Kramat Jati</span></h2>
             <p class="lead">terletak di Jl. Masjid Al Bariyah No.40B RT.011/04 </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
