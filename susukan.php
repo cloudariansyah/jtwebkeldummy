@@ -250,7 +250,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Jakarta Timur</h3>
             <p>
-              Komplek Kantor Walikota Jakarta Timur <br>
+              Komplek Kantor Walikota Jakarta Timur<br>
               Jakarta Timur 13940 <br>
               Jl. Sentra Timur Pulo Gebang<br>
               <!-- <strong>Phone:</strong> 021 - 48702407<br> -->
