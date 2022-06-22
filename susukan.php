@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelurahan Jakarta Timur</title>
+  <title>Kelurahan Susukan</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -144,9 +144,9 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto Gedung Kelurahan Susukan.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light"></h1>
+                    <h1 class="font-weight-light">Akmalluddin</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                     url('frontend/kelurahan/') }}" alt="foto-lurah" /></p>
 		</div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Kelurahan Susukan</h1>
