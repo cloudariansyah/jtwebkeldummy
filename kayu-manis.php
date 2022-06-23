@@ -151,7 +151,7 @@
                   
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Kayu Manis</h1>
-					<p>terletak di Jl. Kayu Manis VIII No.36, RT.5/RW.8, Kayu Manis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13130 -  Jakarta Timur luas wilayah 0.57 Km2 dengan jumlah RW 9 jumlah RT 133.</p>
+					<p>terletak di Jl. Kayu Manis VIII No.36, RT.5/RW.8, Kayu Manis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta - 13130 -  Jakarta Timur luas wilayah 0.57 Km2 dengan jumlah RW 9 jumlah RT 133.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -165,7 +165,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Kayu Manis <span class="text-muted">Kecamatan Matraman</span></h2>
-            <p class="lead">terletak di Jl. Kayu Manis VIII No.36, RT.5/RW.8, Kayu Manis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13130 -  Jakarta Timur luas wilayah 0.57 Km2 dengan jumlah RW 9 jumlah RT 133.</p>
+            <p class="lead">terletak di Jl. Kayu Manis VIII No.36, RT.5/RW.8, Kayu Manis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta - 13130 -  Jakarta Timur luas wilayah 0.57 Km2 dengan jumlah RW 9 jumlah RT 133.</p>
                     
           </div>
           <div class="col-md-5">
