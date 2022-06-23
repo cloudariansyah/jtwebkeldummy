@@ -135,7 +135,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
 					<h1 class="font-weight-light">Kelurahan Rawamangun</h1>
-					<p>terletak di Jl. Muka Barat No.3, RT.9/RW.12 Kelurahan Rawamangun Kecamatan Pulo Gadung - 13220 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw  jumlah rt.</p>
+					<p>terletak di Jl. Muka Barat No.3, RT.9/RW.12 Kelurahan Rawamangun Kecamatan Pulo Gadung - 13220 - Jakarta Timur luas wilayah 2,60 Km persegi dengan bujur barat  dan lintang selatan  serta jumlah rw 15 jumlah rt 167.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -151,7 +151,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan rawamangun <span class="text-muted">Kecamatan Pulo Gadung</span></h2>
-            <p class="lead">terletak di Jl. Muka Barat No.3, RT.9/RW.12 Kelurahan Rawamangun Kecamatan Pulo Gadung - 13220 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw  jumlah rt</p>
+            <p class="lead">terletak di Jl. Muka Barat No.3, RT.9/RW.12 Kelurahan Rawamangun Kecamatan Pulo Gadung - 13220 - Jakarta Timur luas wilayah 2,60 Km persegi dengan bujur barat  dan lintang selatan  serta jumlah rw 15 jumlah rt 167.</p>
                      
           </div>
           <div class="col-md-5">
