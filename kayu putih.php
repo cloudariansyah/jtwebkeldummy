@@ -149,7 +149,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Pulogadung</h4>
 					<h1 class="font-weight-light">Kelurahan Kayu Putih </h1>
-					<p>terletak di Jl. Genteng No.2 RT.03 RW.01 kelurahan kayu putih Wilayah : Jakarta Timur.</p>
+					<p>terletak di Jl. Genteng No.2, RT.3/RW.1, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta - 13210 - Jakarta Timur luas wilayah 107,4 Ha dengan bujur barat  dan lintang selatan  serta jumlah rw 17 jumlah rt 180.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center8 Kelurahan Cawang Kecamatan Ciracas</a>-->
                 </div>
             </div>
@@ -163,7 +163,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Kayu Putih <span class="text-muted">Kecamatan Pulogadung</span></h2>
-            <p class="lead">terletak di Jl. Genteng No.2, RT.3/RW.1, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13210.</p>
+            <p class="lead">terletak di Jl. Genteng No.2, RT.3/RW.1, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta - 13210 - Jakarta Timur luas wilayah 107,4 Ha dengan bujur barat  dan lintang selatan  serta jumlah rw 17 jumlah rt 180.</p>
                     
           </div>
           <div class="col-md-5">
