@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Bali Mester</h1>
-					<p>terletak di Jatinegara Barat 2 No.19, RT.12/RW.3, Kecamatan Jatinegara, kotamadya Jakarta Timur, propinsi DKI Jakarta 13310 -  Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
+					<p>terletak di Jatinegara Barat 2 No.19, RT.12/RW.3, Kecamatan Jatinegara, kotamadya Jakarta Timur, propinsi DKI Jakarta - 13310 - Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -164,7 +164,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Bali Mester <span class="text-muted">Kecamatan Jatinegara</span></h2>
-            <p class="lead">terletak di Jatinegara Barat 2 No.19, RT.12/RW.3, Kecamatan Jatinegara, kotamadya Jakarta Timur, propinsi DKI Jakarta 13310 -  Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
+            <p class="lead">terletak di Jatinegara Barat 2 No.19, RT.12/RW.3, Kecamatan Jatinegara, kotamadya Jakarta Timur, propinsi DKI Jakarta - 13310 - Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
                     
           </div>
           <div class="col-md-5">
