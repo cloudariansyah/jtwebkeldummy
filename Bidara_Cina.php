@@ -143,6 +143,11 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Kantor-Lurah-Bidara-Cina-Jaktim.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
+			<h4 class="font-weight-light">Lurah</h4>
+                    <h1 class="font-weight-light">Yudi Hartono</h1>
+                    <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
+                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+              </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Bidara Cina</h1>
 					<p>terletak di Jl.Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta</p>
@@ -223,7 +228,7 @@
                             <h2 class="card-title">Hubungi</h2>
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
-							 
+							 <li>Telepon: <a href=""> 021 8192371</a> </li>
 							<li>Instagram: <a href="https://www.instagram.com/kelurahan.bidaracina/?hl=id">@kelurahan.bidaracina</a> </li>
 							 
 							</ul>
