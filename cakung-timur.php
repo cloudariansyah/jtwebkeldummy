@@ -211,7 +211,7 @@
                             <h2 class="card-title">Potensi Wilayah</h2>
                             <p class="card-text">
 							<ul>
-							<li>Jakarta Garden City</li>
+							<li>jakarta Garden City </li>
 <li>IKEA Jakarta Garden City</li>
 <li>Puskesmas Cakung Timur</li>
 <li>KPP Madya Dua Jakarta Timur</li>
