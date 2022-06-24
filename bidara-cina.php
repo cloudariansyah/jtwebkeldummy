@@ -64,7 +64,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
             </li>
             <!--<li class="nav-item">
               <a class="nav-link" href="#">Link</a>
@@ -182,7 +182,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Bidara Cina <span class="text-muted">Kecamatan Jatinegara</span></h2>
+            <h2 class="featurette-heading">Kelurahan Bidara Cina<span class="text-muted">Kecamatan Jatinegara</span></h2>
             <p class="lead">terletak di Jl.Otto Iskandar di Nata, Kampung Melayu No. 32C, RT.10/RW.2, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
