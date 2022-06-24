@@ -297,7 +297,7 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          &copy; Copyright <strong><span>Jakarta Timur </span></strong>Sudin Kominfotik JT
+          &copy; Copyright <strong><span>Jakarta Timur</span></strong>Sudin Kominfotik JT
         </div>
         
       </div>
