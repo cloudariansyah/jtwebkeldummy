@@ -163,7 +163,7 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Baru <span class="text-muted">Kecamatan Pasar Rebo</span></h2>
+            <h2 class="featurette-heading">Kelurahan Baru<span class="text-muted">Kecamatan Pasar Rebo</span></h2>
             <p class="lead">terletak di Jl.Baru, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta</p>
                     
           </div>
@@ -303,7 +303,7 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          &copy; Copyright <strong><span>Jakarta Timur </span></strong>Sudin Kominfotik JT
+          &copy; Copyright <strong><span>Jakarta Timur</span></strong>Sudin Kominfotik JT
         </div>
         
       </div>
