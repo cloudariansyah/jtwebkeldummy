@@ -225,7 +225,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <p class="card-text">
 							<ul><li>Pelayanan Pencatatan Biodata Penduduk WNI</li>
 <li>Pelayanan Penertiban KK</li>
-<li>Pelayanan Biodata Penduduk WNI yang ebrtempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
+<li>Pelayanan Biodata Penduduk WNI yang bertempat tinggal lama di DKI Jakarta dan belum terdaftar dalam database kependudukan/belum</li> <li>memiliki NIK</li>
 <li>Penerbitan KK karena perubahan data</li>
 <li>Pelayanan KK karena hilang atau rusak </li>
 <li>Pelayanan KTP-el karena adanya perubahan data/biodata</li>
@@ -243,7 +243,7 @@ s0.parentNode.insertBefore(s1,s0);
 <li>Pencatatan kematian penduduk yang hilang dan tidak ditemukan jenazahnya atau tidak jelas keberadaannya</li>
 <li>Pelayanan KIA</li>
 <li>Pelayanan KIA karena hilang atau rusak</li>
-<li>Pebdataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
+<li>Pendataan penduduk Non Permanen Pelaksanaan pendataan penduduk nonpermanen oleh penduduk nonpermanen di kelurahan</li>-->
 </p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Selengkapnya</a></div>
