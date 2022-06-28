@@ -125,7 +125,7 @@
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Ikhwan Muhamad Ali, SH.jpg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Foto gedung kelurahan rambutan.jpg" alt="..." /></div>
                 <div class="col-lg-5">
 		    <h4 class="font-weight-light">Lurah</h4>
                     <h1 class="font-weight-light">Ikhwan Muhamad Ali, SH</h1>
@@ -233,7 +233,9 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							<li>Instagram: <a href="https://instagram.com/kelurahanrambutan">@kelurahanrambutan</a> </li>
-								<li>Facebook: <a href="https://facebook.com/">@Kelurahan Rambutan</a> </li>
+							<li>Facebook: <a href="https://facebook.com/">@Kelurahan Rambutan</a> </li>
+							<li>Telp: 021 87790004</li>
+							
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
