@@ -163,7 +163,7 @@
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kelurahan Lubang Buaya <span class="text-muted">Kecamatan Cipayung</span></h2>
+            <h2 class="featurette-heading">Kelurahan Lubang Buaya<span class="text-muted">Kecamatan Cipayung</span></h2>
             <p class="lead">terletak di Jl.Lubang Buaya, Cipayung, East Jakarta City, Jakarta</p>
                     
           </div>
@@ -216,7 +216,7 @@
 <li>Puskesmas Kelurahan Lubang Buaya</li>
 <li>Klinik Silvia Medika</li>
 <li>Apotek Rafah</li>
-<li>Kuliner Makanan d'Jongkon Resto Lubang Buaya </li>
+<li>Kuliner Makanan d'Jongkon Resto Lubang Buaya</li>
 </p>
                         </div>
                         <!--<div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
@@ -254,7 +254,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Jakarta Timur</h3>
             <p>
-              Komplek Kantor Walikota Jakarta Timur <br>
+              Komplek Kantor Walikota Jakarta Timur<br>
               Jakarta Timur 13940 <br>
               Jl. Sentra Timur Pulo Gebang<br>
               <!-- <strong>Phone:</strong> 021 - 48702407<br> -->
