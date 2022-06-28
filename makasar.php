@@ -182,7 +182,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row featurette">
 		
           <div class="col-md-7">
-            <h2 class="featurette-heading">Kecamatan Makasar <span class="text-muted">Kecamatan Makasar</span></h2>
+            <h2 class="featurette-heading">Kecamatan Makasar<span class="text-muted">Kecamatan Makasar</span></h2>
             <p class="lead">terletak di Jl. Lembur No.1, RT.13/RW.6, Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13570, Indonesia </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
