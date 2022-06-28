@@ -251,7 +251,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h2 class="card-title">Potensi Wilayah</h2>
+                            <h2 class="card-title">Potensi Wilayah </h2>
                             <p class="card-text">
 							<ul>
 </p>
