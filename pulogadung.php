@@ -139,16 +139,16 @@ s0.parentNode.insertBefore(s1,s0);
       <div class="container marketing">
 
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/halaman1.jpeg" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/kecamatan_jatinegara.jpg" alt="..." /></div>
                 <div class="col-lg-5">
-		    <h4 class="font-weight-light">Lurah</h4>
-                    <h1 class="font-weight-light">Abdul Haris</h1>
+		    <h4 class="font-weight-light">Camat</h4>
+                    <h1 class="font-weight-light">Endang Sofyan</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
                      url('') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Pulogadung</h4>
 					<h1 class="font-weight-light">Kecamatan Pulogadung</h1>
-					<p>terletak di Jl. </p>
+					<p>terletak di Jl. DI. Panjaitan No.11, RT.11/RW.1, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13340 </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -183,8 +183,8 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kecamatan Pulogadung<span class="text-muted">Kecamatan Pulogadung</span></h2>
-            <p class="lead">terletak di Jalan Kayu Putih IV, Pulo Gadung, RT.3/RW.6, Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13260</p>
-                    <a class="btn btn-primary" href="#!">Call Center</a>Jalan Kayu Putih IV, Pulo Gadung, RT.3/RW.6, Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13260
+            <p class="lead">terletak di Jl. DI. Panjaitan No.11, RT.11/RW.1, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13340</p>
+                    <a class="btn btn-primary" href="#!">Call Center</a>Jalan DI. Panjaitan No.11, RT.11/RW.1, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13340
           </div>
           <div class="col-md-5">
 		  <div class="card-body"><p class="https://www.google.com/maps/place/Pulo+Gadung,+East+Jakarta+City,+Jakarta/@-6.2085235,106.8725002,15z/data=!4m5!3m4!1s0x2e69f4c1755a610d:0x7c7f05b44572f6d8!8m2!3d-6.1936067!4d106.8912095" allowfullscreen="" loading="lazy"></iframe></p></div>
