@@ -247,6 +247,7 @@ Kelurahan Pondok Bambu memiliki Luas Wilayah 5.00 Km2, terdiri dari 13,337 Kelua
 							<li>Twitter: <a href="https://mobile.twitter.com/kelbambu">@KelBambu</a> </li>	
 							<li>Youtube: <a href="https://www.youtube.com/channel/UCtHQojuTOpsE3z45pLyD0vA/null">@Kelurahan Pondok Bambu</a></li>
 							<li>Telp: 021 8615784 </li>
+							<li>Email: kel_pondokbambu@jakarta.go.id </li>
 							</ul>
                         </div>
                        <!-- <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>-->
