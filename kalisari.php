@@ -143,7 +143,7 @@
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="foto/Bangunan Kantor.jpeg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h4 class="font-weight-light">Kecamatan Pasar Rebo</h4>
+                    <h4 class="font-weight-light">Kecamatan Pasar Rebo </h4>
 					<h1 class="font-weight-light">Kelurahan Kalisari </h1>
 					<p>terletak di Jl. Kalisari Raya RT 011 RW 002 Kelurahan Kalisari  Kecamatan Pasar Rebo – 137906 -  Jakarta Timur luas wilayah XX Ha dengan jumlah RT XX jumlah RW XX.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
@@ -203,7 +203,7 @@
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h2 class="card-title">Potensi Wilayah</h2>
+                            <h2 class="card-title">Potensi Wilayah </h2>
                             <p class="card-text">
 							<ul>
 <li></li>
