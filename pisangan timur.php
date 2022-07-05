@@ -130,7 +130,7 @@
 		    <h4 class="font-weight-light">Lurah</h4>
                     <h1 class="font-weight-light">Mochamad Iqbal</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                     url('foto/foto-lurah-pisangantimur.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Pulo Gadung</h4>
 					<h1 class="font-weight-light">Kelurahan Pisangan Timur</h1>
