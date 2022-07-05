@@ -148,7 +148,7 @@ s0.parentNode.insertBefore(s1,s0);
               </div>
                     <h4 class="font-weight-light">Kecamatan Kramat Jati</h4>
 					<h1 class="font-weight-light">Kelurahan Cililitan</h1>
-					<p>terletak di Jl. Raya Kalibata No 5A</p>
+					<p>terletak Jl. Mandala V, RT.7/RW.9, Cililitan, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13640</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Cililitan <span class="text-muted">Kecamatan Kramat Jati</span></h2>
-            <p class="lead">terletak di Jl. Raya Kalibata No 5A</p>
+            <p class="lead">terletak di Jl. Mandala V, RT.7/RW.9, Cililitan, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13640</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
