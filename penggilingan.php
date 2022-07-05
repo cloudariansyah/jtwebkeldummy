@@ -133,7 +133,7 @@ s0.parentNode.insertBefore(s1,s0);
 		    <h4 class="font-weight-light">Lurah</h4>
                     <h1 class="font-weight-light">Usdiyati</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('frontend/kelurahan/IMG-20220609-WA0002.jpg') }}" alt="foto-lurah" /></p>
+                     url('foto/foto-lurah-penggilingan.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
 					<h1 class="font-weight-light">Kelurahan penggilingan </h1>
