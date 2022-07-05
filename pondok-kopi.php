@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
 			<h4 class="font-weight-light">Lurah</h4>
                     <h1 class="font-weight-light">Siska Leonita</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                     url('') }}" alt="foto-lurah" /></p>
+                     url('foto/foto-lurah-pondokkopi') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Duren Sawit</h4>
 					<h1 class="font-weight-light">Kelurahan Pondok Kopi</h1>
