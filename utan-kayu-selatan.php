@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Utan Kayu Selatan</h1>
-					<p>terletak di Galur Sari timur NO 1, kelurahan Utan Kayu selatan, kecamatan Matraman, kotamadaya Jakarta Timur, propinsi DKI Jakarta 13120 -  Jakarta Timur luas wilayah 1,12 km2 W 10 dengan jumlah RW 14 jumlah RT 173.</p>
+					<p>terletak Jl. Galur Sari Timur No.1 RT.015/01, kelurahan Utan Kayu selatan, kecamatan Matraman, kotamadaya Jakarta Timur, propinsi DKI Jakarta 13120 -  Jakarta Timur luas wilayah 1,12 km2 W 10 dengan jumlah RW 14 jumlah RT 173.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -164,7 +164,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Utan Kayu Selatan<span class="text-muted">Kecamatan Matraman</span></h2>
-            <p class="lead">terletak di Galur Sari timur NO 1, kelurahan Utan Kayu selatan, kecamatan Matraman, kotamadaya Jakarta Timur, propinsi DKI Jakarta 13120 -  Jakarta Timur luas wilayah 1,12 km2 W 10 dengan jumlah RW 14 jumlah RT 173.</p>
+            <p class="lead">terletak Jl. Galur Sari Timur No.1 RT.015/01, kelurahan Utan Kayu selatan, kecamatan Matraman, kotamadaya Jakarta Timur, propinsi DKI Jakarta 13120 -  Jakarta Timur luas wilayah 1,12 km2 W 10 dengan jumlah RW 14 jumlah RT 173.</p>
                     
           </div>
           <div class="col-md-5">
