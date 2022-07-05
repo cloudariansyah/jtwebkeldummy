@@ -148,7 +148,7 @@ s0.parentNode.insertBefore(s1,s0);
               </div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kecamatan Cipayung</h1>
-					<p>terletak di Jl. Bina Marga No.2, RT.6/RW.2, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia </p>
+					<p>terletak di Jl. Bambu Hitam No. 108 RT.010 RW.04, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kecamatan Cipayung <span class="text-muted">Kecamatan CIpayung</span></h2>
-            <p class="lead">terletak di Jl. Bina Marga No.2, RT.6/RW.2, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia</p>
+            <p class="lead">terletak di Jl. Bambu Hitam No. 108 RT.010 RW.04, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
