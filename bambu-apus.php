@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan Bambu Apus</h1>
-					<p>terletak di Jl. Mini 3, Kelurahan Bambu Apus, Kecamatan Cipayung Jakarta Timur - 13890 - Jakarta Timur luas wilayah 3.17 Km2 dengan jumlah RW 5 jumlah RT 63 .</p>
+					<p>terletak di Jl. Mini 3, No.12, RT.12/RW.3, Kelurahan Bambu Apus, Kecamatan Cipayung Jakarta Timur - 13890 - Jakarta Timur luas wilayah 3.17 Km2 dengan jumlah RW 5 jumlah RT 63 .</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -164,7 +164,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Bambu Apus <span class="text-muted">Kecamatan Cipayung</span></h2>
-            <p class="lead">terletak di Jl. Mini 3, Kelurahan Bambu Apus, Kecamatan Cipayung Jakarta Timur - 13890 - Jakarta Timur luas wilayah 3.17 Km2 dengan jumlah RW 5 jumlah RT 63 .</p>
+            <p class="lead">terletak di Jl. Mini 3 No.12, RT.12/RW.3, Bambu Apus, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta - 1389 - Jakarta Timur luas wilayah 3.17 Km2 dengan jumlah RW 5 jumlah RT 63 .</p>
                     
           </div>
           <div class="col-md-5">
