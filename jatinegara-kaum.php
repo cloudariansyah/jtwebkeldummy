@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Pulo Gadung </h4>
 					<h1 class="font-weight-light">Kelurahan Jatinegara Kaum</h1>
-					<p>terletak di Jl. Badarudin No. 1 RT 001/005, Jatinegara Kaum, Kelurahan Jatinegara Kaum, Kecamatan Pulo Gadung, - 13250 - Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
+					<p>terletak di Jl. Badarudin No. 1 RT 001/005, Jatinegara Kaum, Kelurahan Jatinegara Kaum, Kecamatan Pulo Gadung, - 13240 - Jakarta Timur luas wilayah 0.67 Km2, dengan jumlah RW 6 jumlah RT 71.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
