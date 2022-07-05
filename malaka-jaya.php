@@ -24,7 +24,7 @@
              call_to_action: "Chat Center Kelurahan", // Call to action
 		position: "left", // Position may be 'right' or 'left'
                 whatsapp: "", // WhatsApp number
-          instagram: "@",
+          instagram: "@malaka.jaya",
 		//email: "kelmalakajaya@yahoo.com", // Email
 button_color: "#cc9933", // Color of button
  
@@ -267,7 +267,7 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 							<li>TikTok: </li>
 							<li>Twitter: </li>
-							<li>Instagram: </li>
+							<li>Instagram:@malaka.jaya </li>
 							<li>Facebook: </li>
 							<li>Youtube: </li>
 							</ul>
