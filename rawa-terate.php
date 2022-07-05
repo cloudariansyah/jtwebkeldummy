@@ -235,7 +235,7 @@
                             <p class="card-text">Jam operasional 07.00-16.00 WIB</p>
 							<ul>
 							 
-							<li>Instagram: <a href="https://www.instagram.com/explore/tags/kelurahanrawaterate/?hl=id">@</a>kelurahanrawaterate </li>
+							<li>Instagram: <a href="https://www.instagram.com/explore/tags/kelurahanrawaterate/?hl=id">@</a>kelurahan_rawaterate </li>
 							<li>Facebook: <a href="">Kelurahan Rawa Terate</a></li>
 							 
 							</ul>
