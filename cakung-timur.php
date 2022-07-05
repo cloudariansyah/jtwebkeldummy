@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
 					<h1 class="font-weight-light">Kelurahan Cakung Timur</h1>
-					<p>terletak di Jl. Irigasi Gempol Kelurahan Cakung Timur, Kecamatan Cakung, kotamadya Jakarta Timur, propinsi DKI Jakarta 13910 -  Jakarta Timur luas wilayah 9,81 km^2 dengan jumlah RW 13 jumlah RT 134.</p>
+					<p>terletak di Jl. Irigasi Gempol No.1 RT.003 RW.01 Kelurahan Cakung Timur, Kecamatan Cakung, kotamadya Jakarta Timur, propinsi DKI Jakarta 13910 -  Jakarta Timur luas wilayah 9,81 km^2 dengan jumlah RW 13 jumlah RT 134.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -164,7 +164,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Cakung Timur <span class="text-muted">Kecamatan Cakung</span></h2>
-            <p class="lead">terletak di Jl. Irigasi Gempol Kelurahan Cakung Timur, Kecamatan Cakung, kotamadya Jakarta Timur, propinsi DKI Jakarta 13910 -  Jakarta Timur luas wilayah 9,81 km^2 dengan jumlah RW 13 jumlah RT 134.</p>
+            <p class="lead">terletak di Jl. Irigasi Gempol No.1 RT.003 RW.01 Kelurahan Cakung Timur, Kecamatan Cakung, kotamadya Jakarta Timur, propinsi DKI Jakarta 13910 -  Jakarta Timur luas wilayah 9,81 km^2 dengan jumlah RW 13 jumlah RT 134.</p>
                     
           </div>
           <div class="col-md-5">
