@@ -148,7 +148,7 @@ s0.parentNode.insertBefore(s1,s0);
               </div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan Cilangkap</h1>
-					<p>terletak di Komplek Militer Cilangkap 13870 Cipayung Jakarta</p>
+					<p>terletak di Jl. Raya As-Syafiiyah RT. 003 RW. 03 Cilangkap 13870 Cipayung Jakarta</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Cilangkap <span class="text-muted">Kecamatan Cipayung</span></h2>
-            <p class="lead">terletak di Komplek Militer Cilangkap 13870 Cipayung Jakarta </p>
+            <p class="lead">terletak di Jl. Raya As-Syafiiyah RT. 003 RW. 03 Cilangkap 13870 Cipayung Jakarta </p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
