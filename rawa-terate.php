@@ -146,7 +146,7 @@
 		    <h4 class="font-weight-light">Lurah</h4>
                     <h1 class="font-weight-light">Sukariya</h1>
                     <p><img class="img-fluid rounded mb-4 mb-lg-0" src="{{
-                    url('frontend/kelurahan/') }}" alt="foto-lurah" /></p>
+                    url('frontend/kelurahan/foto-lurah-rawaterate.jpg') }}" alt="foto-lurah" /></p>
               </div>
                     <h4 class="font-weight-light">Kecamatan Cakung</h4>
 					<h1 class="font-weight-light">Kelurahan Rawa Terate</h1>
