@@ -134,7 +134,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Matraman</h4>
 					<h1 class="font-weight-light">Kelurahan Pal Meriam</h1>
-					<p>terletak di Jl.  Kelurahan Pal Meriam Kecamatan Matraman - 13140 - Jakarta Timur.</p>
+					<p>terletak di Jl.  Kayu Manis Lama 1 No.16, RT.6/RW.8, Palmeriam, Kec. Matraman, Kota Jakarta Timur - 13140 - Jakarta Timur.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -150,7 +150,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Pal Meriam <span class="text-muted">Kecamatan Matraman</span></h2>
-            <p class="lead">terletak di Jl.  Kelurahan Pal Meriam Kecamatan Matraman - 13140 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan serta jumlah rw  jumlah rt </p>
+            <p class="lead">terletak di Jl.  Kayu Manis Lama 1 No.16, RT.6/RW.8, Palmeriam, Kec. Matraman, Kota Jakarta Timur - 13140 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan serta jumlah rw  jumlah rt </p>
                      
           </div>
           <div class="col-md-5">
