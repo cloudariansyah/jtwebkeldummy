@@ -134,7 +134,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Pasar Rebo</h4>
 					<h1 class="font-weight-light">Kelurahan Gedong</h1>
-					<p>terletak di Jl. H.Taiman No.20 Kelurahan Kampung Gedong, Kecamatan Pasar Rebo, kotamadya Jakarta Timur, Provinsi DKI Jakarta  - 13760 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw jumlah rt .</p>
+					<p>terletak di Jl.  H. Taiman No. 20 Kelurahan Kampung Gedong, Kecamatan Pasar Rebo, kotamadya Jakarta Timur, Provinsi DKI Jakarta  - 13760 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw jumlah rt .</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -150,7 +150,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Gedong <span class="text-muted">Kecamatan Pasar Rebo</span></h2>
-            <p class="lead">terletak di Jl.  Kelurahan Gedong Kecamatan Pasar rebo - 13760 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw jumlah rt </p>
+            <p class="lead">terletak di Jl.  H. Taiman No. 20 Kelurahan Kampung Gedong, Kecamatan Pasar Rebo, kotamadya Jakarta Timur, Provinsi DKI Jakarta  - 13760 - Jakarta Timur luas wilayah  dengan bujur barat  dan lintang selatan  serta jumlah rw jumlah rt </p>
                      
           </div>
           <div class="col-md-5">
