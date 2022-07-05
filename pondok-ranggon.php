@@ -148,7 +148,7 @@ s0.parentNode.insertBefore(s1,s0);
               </div>
                     <h4 class="font-weight-light">Kecamatan Cipayung</h4>
 					<h1 class="font-weight-light">Kelurahan Pondok Ranggon</h1>
-					<p>terletak di Jl. Pondok Ranggon No.1 RT.001/04</p>
+					<p>terletak di Jl. Raya Pd. Ranggon No.1, RT.1/RW.4, Pd. Ranggon, Kec. Cipayung, Kota Jakarta Timur Daerah Khusus Ibu Kota Jakarta 13860</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Pondok Ranggon <span class="text-muted">Kecamatan Cipayung</span></h2>
-            <p class="lead">terletak di Jl. Pondok Ranggon No.1 RT.001/04</p>
+            <p class="lead">terletak di Jl. Raya Pd. Ranggon No.1, RT.1/RW.4, Pd. Ranggon, Kec. Cipayung, Kota Jakarta Timur Daerah Khusus Ibu Kota Jakarta 13860</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
