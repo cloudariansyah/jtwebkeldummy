@@ -150,7 +150,7 @@
               </div>
                     <h4 class="font-weight-light">Kecamatan Ciracas</h4>
 					<h1 class="font-weight-light">Jakarta Timur</h1>
-					<p>terletak di Jl. Penganten Ali No.9 Kelurahan Ciracas, kecamatan Ciracas. -  Jakarta Timur luas wilayah XX Ha dengan jumlah RW XX jumlah RT XX.</p>
+					<p>terletak di Jl. Raya Ciracas No.2, RT.7/RW.3, Ciracas, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13740. -  Jakarta Timur luas wilayah XX Ha dengan jumlah RW XX jumlah RT XX.</p>
                     <!--<a class="btn btn-primary" href="#!">Call Center</a>-->
                 </div>
             </div>
@@ -164,7 +164,7 @@
 		
           <div class="col-md-7">
             <h2 class="featurette-heading"><span class="text-muted">Kecamatan Ciracas</span></h2>
-            <p class="lead">terletak di Jl. Penganten Ali No.9 Kelurahan Ciracas, kecamatan Ciracas. -  Jakarta Timur luas wilayah XX Ha dengan jumlah RW XX jumlah RT XX.</p>
+            <p class="lead">terletak di Jl. Raya Ciracas No.2, RT.7/RW.3, Ciracas, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13740 -  Jakarta Timur luas wilayah XX Ha dengan jumlah RW XX jumlah RT XX.</p>
                     
           </div>
           <div class="col-md-5">
