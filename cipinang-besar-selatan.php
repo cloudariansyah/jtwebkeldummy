@@ -148,7 +148,7 @@ s0.parentNode.insertBefore(s1,s0);
               </div>
                     <h4 class="font-weight-light">Kecamatan Jatinegara</h4>
 					<h1 class="font-weight-light">Kelurahan Cipinang Besar Selatan</h1>
-					<p>terletak di Jalan Cipinang Jaya Gg. Ujung </p>
+					<p>terletak di Jalan TPU Kebon Nanas No.1, RT.2/RW.5, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13410</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
                 </div>
             </div>
@@ -183,7 +183,7 @@ s0.parentNode.insertBefore(s1,s0);
 		
           <div class="col-md-7">
             <h2 class="featurette-heading">Kelurahan Cipinang Besar Selatan <span class="text-muted">Kecamatan Jatinegara</span></h2>
-            <p class="lead">terletak di Jalan Cipinang Jaya Gg. Ujung </p>
+            <p class="lead">terletak di Jalan TPU Kebon Nanas No.1, RT.2/RW.5, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13410</p>
                     <a class="btn btn-primary" href="#!">Call Center</a>
           </div>
           <div class="col-md-5">
